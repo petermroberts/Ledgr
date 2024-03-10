@@ -1,0 +1,57 @@
+﻿Date,Description,Amount,Transaction Type,Category,Account Number
+03/01/2019,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+03/01/2019,Amazon,13.09,debit,Shopping,95028-6611199
+03/01/2019,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+03/01/2019,Amazon,13.09,debit,Shopping,95028-6611199
+03/04/2019,Grocery Store,92.04,debit,Groceries,95028-1307804
+03/04/2019,Mortgage Payment,1100,debit,Mortgage & Rent,95028-5949457
+03/04/2019,Netflix,11.76,debit,Television,95028-6611199
+03/04/2019,Grocery Store,92.04,debit,Groceries,95028-1307804
+03/04/2019,Mortgage Payment,1100,debit,Mortgage & Rent,95028-5949457
+03/04/2019,Netflix,11.76,debit,Television,95028-6611199
+03/04/2019,Grocery Store,92.04,debit,Groceries,95028-1307804
+03/04/2019,Mortgage Payment,1100,debit,Mortgage & Rent,95028-5949457
+03/04/2019,Netflix,11.76,debit,Television,95028-6611199
+03/05/2019,Fancy Restaurant,7,debit,Restaurants,95028-1307804
+03/08/2019,BP,34.08,debit,Gas & Fuel,95028-6611199
+03/08/2019,Amazon,27.17,debit,Shopping,95028-6611199
+03/08/2019,Gas Company,49,debit,Utilities,95028-5949457
+03/08/2019,BP,34.08,debit,Gas & Fuel,95028-6611199
+03/08/2019,Amazon,27.17,debit,Shopping,95028-6611199
+03/08/2019,Gas Company,49,debit,Utilities,95028-5949457
+03/08/2019,BP,34.08,debit,Gas & Fuel,95028-6611199
+03/08/2019,Amazon,27.17,debit,Shopping,95028-6611199
+03/08/2019,Gas Company,49,debit,Utilities,95028-5949457
+03/09/2019,Spotify,10.69,debit,Music,95028-6611199
+03/12/2019,Phone Company,65,debit,Mobile Phone,95028-5949457
+03/12/2019,Bakery Place,3.02,debit,Restaurants,95028-6611199
+03/12/2019,Phone Company,65,debit,Mobile Phone,95028-5949457
+03/12/2019,Bakery Place,3.02,debit,Restaurants,95028-6611199
+03/13/2019,Credit Card Payment,301.79,credit,Credit Card Payment,95028-1307804
+03/14/2019,Credit Card Payment,301.79,debit,Credit Card Payment,95028-5949457
+03/14/2019,Brunch Restaurant,8,debit,Restaurants,95028-6611199
+03/14/2019,Credit Card Payment,301.79,debit,Credit Card Payment,95028-5949457
+03/14/2019,Brunch Restaurant,8,debit,Restaurants,95028-6611199
+03/15/2019,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+03/15/2019,Power Company,60,debit,Utilities,95028-5949457
+03/15/2019,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+03/15/2019,Power Company,60,debit,Utilities,95028-5949457
+03/18/2019,Best Buy,320.99,debit,Electronics & Software,95028-6611199
+03/18/2019,Grocery Store,16.23,debit,Groceries,95028-6611199
+03/18/2019,Best Buy,320.99,debit,Electronics & Software,95028-6611199
+03/18/2019,Grocery Store,16.23,debit,Groceries,95028-6611199
+03/19/2019,Amazon,13.84,debit,Shopping,95028-6611199
+03/19/2019,City Water Charges,35,debit,Utilities,95028-5949457
+03/19/2019,Amazon,13.84,debit,Shopping,95028-6611199
+03/19/2019,City Water Charges,35,debit,Utilities,95028-5949457
+03/20/2019,State Farm,75,debit,Auto Insurance,95028-5949457
+03/22/2019,BP,37.51,debit,Gas & Fuel,95028-6611199
+03/23/2019,Starbucks,5.2,debit,Coffee Shops,95028-6611199
+03/25/2019,Internet Service Provider,75,debit,Internet,95028-5949457
+03/26/2019,Amazon,16.04,debit,Shopping,95028-6611199
+03/27/2019,Brewing Company,49.63,debit,Alcohol & Bars,95028-6611199
+03/27/2019,Grocery Store,4.46,debit,Groceries,95028-6611199
+03/27/2019,Brewing Company,49.63,debit,Alcohol & Bars,95028-6611199
+03/27/2019,Grocery Store,4.46,debit,Groceries,95028-6611199
+03/29/2019,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+03/30/2019,Starbucks,12.84,debit,Coffee Shops,95028-6611199

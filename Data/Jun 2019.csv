@@ -1,0 +1,50 @@
+﻿Date,Description,Amount,Transaction Type,Category,Account Number
+06/01/2019,Amazon,13.09,debit,Shopping,95028-6611199
+06/03/2019,Starbucks,2.75,debit,Coffee Shops,95028-6611199
+06/03/2019,Mortgage Payment,1100,debit,Mortgage & Rent,95028-5949457
+06/03/2019,Starbucks,2.75,debit,Coffee Shops,95028-6611199
+06/03/2019,Mortgage Payment,1100,debit,Mortgage & Rent,95028-5949457
+06/04/2019,Barbershop,30,debit,Haircut,95028-6611199
+06/04/2019,Netflix,13.9,debit,Television,95028-6611199
+06/04/2019,Barbershop,30,debit,Haircut,95028-6611199
+06/04/2019,Netflix,13.9,debit,Television,95028-6611199
+06/05/2019,Grocery Store,23,debit,Groceries,95028-6611199
+06/05/2019,Mexican Restaurant,23.24,debit,Restaurants,95028-6611199
+06/05/2019,Grocery Store,23,debit,Groceries,95028-6611199
+06/05/2019,Mexican Restaurant,23.24,debit,Restaurants,95028-6611199
+06/06/2019,Starbucks,3.75,debit,Coffee Shops,95028-6611199
+06/06/2019,Grocery Store,5.64,debit,Groceries,95028-6611199
+06/06/2019,Starbucks,3.75,debit,Coffee Shops,95028-6611199
+06/06/2019,Grocery Store,5.64,debit,Groceries,95028-6611199
+06/07/2019,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+06/07/2019,Gas Company,30,debit,Utilities,95028-5949457
+06/07/2019,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+06/07/2019,Gas Company,30,debit,Utilities,95028-5949457
+06/09/2019,Spotify,10.69,debit,Music,95028-6611199
+06/12/2019,Phone Company,65,debit,Mobile Phone,95028-5949457
+06/13/2019,Credit Card Payment,152.72,credit,Credit Card Payment,95028-6611199
+06/13/2019,Credit Card Payment,152.72,debit,Credit Card Payment,95028-5949457
+06/13/2019,Credit Card Payment,152.72,credit,Credit Card Payment,95028-6611199
+06/13/2019,Credit Card Payment,152.72,debit,Credit Card Payment,95028-5949457
+06/14/2019,Grocery Store,10.69,debit,Groceries,95028-1307804
+06/15/2019,BP,33.16,debit,Gas & Fuel,95028-1307804
+06/17/2019,City Water Charges,35,debit,Utilities,95028-5949457
+06/17/2019,Power Company,60,debit,Utilities,95028-5949457
+06/17/2019,City Water Charges,35,debit,Utilities,95028-5949457
+06/17/2019,Power Company,60,debit,Utilities,95028-5949457
+06/18/2019,Brewing Company,15,debit,Alcohol & Bars,95028-1307804
+06/18/2019,Shell,41.83,debit,Gas & Fuel,95028-1307804
+06/18/2019,Brewing Company,15,debit,Alcohol & Bars,95028-1307804
+06/18/2019,Shell,41.83,debit,Gas & Fuel,95028-1307804
+06/19/2019,State Farm,75,debit,Auto Insurance,95028-5949457
+06/20/2019,Mike's Construction Co.,9200,debit,Home Improvement,95028-5949457
+06/20/2019,Credit Card Payment,100.68,credit,Credit Card Payment,95028-1307804
+06/20/2019,Mike's Construction Co.,9200,debit,Home Improvement,95028-5949457
+06/20/2019,Credit Card Payment,100.68,credit,Credit Card Payment,95028-1307804
+06/21/2019,Credit Card Payment,100.68,debit,Credit Card Payment,95028-5949457
+06/21/2019,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+06/21/2019,Credit Card Payment,100.68,debit,Credit Card Payment,95028-5949457
+06/21/2019,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+06/24/2019,Brewing Company,15,debit,Alcohol & Bars,95028-1307804
+06/28/2019,BP,30.64,debit,Gas & Fuel,95028-1307804
+06/30/2019,Internet Service Provider,75,debit,Internet,95028-5949457

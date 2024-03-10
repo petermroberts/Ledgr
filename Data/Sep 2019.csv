@@ -1,0 +1,85 @@
+﻿Date,Description,Amount,Transaction Type,Category,Account Number
+09/01/2019,Amazon,13.09,debit,Shopping,95028-6611199
+09/03/2019,Mortgage Payment,1100,debit,Mortgage & Rent,95028-5949457
+09/03/2019,Fancy Restaurant,41.24,debit,Restaurants,95028-1307804
+09/03/2019,Mortgage Payment,1100,debit,Mortgage & Rent,95028-5949457
+09/03/2019,Fancy Restaurant,41.24,debit,Restaurants,95028-1307804
+09/04/2019,Netflix,13.9,debit,Television,95028-6611199
+09/05/2019,Starbucks,3.75,debit,Coffee Shops,95028-6611199
+09/06/2019,Credit Card Payment,1390.37,credit,Credit Card Payment,95028-6611199
+09/06/2019,Credit Card Payment,1390.37,debit,Credit Card Payment,95028-5949457
+09/06/2019,Credit Card Payment,1390.37,credit,Credit Card Payment,95028-6611199
+09/06/2019,Credit Card Payment,1390.37,debit,Credit Card Payment,95028-5949457
+09/07/2019,Brewing Company,12.87,debit,Alcohol & Bars,95028-6611199
+09/08/2019,Brewing Company,19.3,debit,Alcohol & Bars,95028-6611199
+09/09/2019,Shell,28.77,debit,Gas & Fuel,95028-6611199
+09/09/2019,Grocery Store,65.09,debit,Groceries,95028-1307804
+09/09/2019,Hardware Store,26.25,debit,Home Improvement,95028-1307804
+09/09/2019,Spotify,10.69,debit,Music,95028-6611199
+09/09/2019,Gas Company,30,debit,Utilities,95028-5949457
+09/09/2019,Shell,28.77,debit,Gas & Fuel,95028-6611199
+09/09/2019,Grocery Store,65.09,debit,Groceries,95028-1307804
+09/09/2019,Hardware Store,26.25,debit,Home Improvement,95028-1307804
+09/09/2019,Spotify,10.69,debit,Music,95028-6611199
+09/09/2019,Gas Company,30,debit,Utilities,95028-5949457
+09/09/2019,Shell,28.77,debit,Gas & Fuel,95028-6611199
+09/09/2019,Grocery Store,65.09,debit,Groceries,95028-1307804
+09/09/2019,Hardware Store,26.25,debit,Home Improvement,95028-1307804
+09/09/2019,Spotify,10.69,debit,Music,95028-6611199
+09/09/2019,Gas Company,30,debit,Utilities,95028-5949457
+09/09/2019,Shell,28.77,debit,Gas & Fuel,95028-6611199
+09/09/2019,Grocery Store,65.09,debit,Groceries,95028-1307804
+09/09/2019,Hardware Store,26.25,debit,Home Improvement,95028-1307804
+09/09/2019,Spotify,10.69,debit,Music,95028-6611199
+09/09/2019,Gas Company,30,debit,Utilities,95028-5949457
+09/09/2019,Shell,28.77,debit,Gas & Fuel,95028-6611199
+09/09/2019,Grocery Store,65.09,debit,Groceries,95028-1307804
+09/09/2019,Hardware Store,26.25,debit,Home Improvement,95028-1307804
+09/09/2019,Spotify,10.69,debit,Music,95028-6611199
+09/09/2019,Gas Company,30,debit,Utilities,95028-5949457
+09/11/2019,Credit Card Payment,360.56,credit,Credit Card Payment,95028-1307804
+09/11/2019,Phone Company,65,debit,Mobile Phone,95028-5949457
+09/11/2019,Credit Card Payment,360.56,credit,Credit Card Payment,95028-1307804
+09/11/2019,Phone Company,65,debit,Mobile Phone,95028-5949457
+09/12/2019,Credit Card Payment,360.56,debit,Credit Card Payment,95028-5949457
+09/13/2019,Starbucks,2.75,debit,Coffee Shops,95028-6611199
+09/13/2019,Biweekly Paycheck,2250,credit,Paycheck,95028-5949457
+09/13/2019,Starbucks,2.75,debit,Coffee Shops,95028-6611199
+09/13/2019,Biweekly Paycheck,2250,credit,Paycheck,95028-5949457
+09/14/2019,Grocery Store,46.44,debit,Groceries,95028-6611199
+09/15/2019,Amazon,47.66,debit,Shopping,95028-6611199
+09/16/2019,Credit Card Payment,90.57,debit,Credit Card Payment,95028-5949457
+09/16/2019,Credit Card Payment,90.57,credit,Credit Card Payment,95028-1307804
+09/16/2019,City Water Charges,35,debit,Utilities,95028-5949457
+09/16/2019,Credit Card Payment,90.57,debit,Credit Card Payment,95028-5949457
+09/16/2019,Credit Card Payment,90.57,credit,Credit Card Payment,95028-1307804
+09/16/2019,City Water Charges,35,debit,Utilities,95028-5949457
+09/16/2019,Credit Card Payment,90.57,debit,Credit Card Payment,95028-5949457
+09/16/2019,Credit Card Payment,90.57,credit,Credit Card Payment,95028-1307804
+09/16/2019,City Water Charges,35,debit,Utilities,95028-5949457
+09/17/2019,Power Company,60,debit,Utilities,95028-5949457
+09/18/2019,State Farm,75,debit,Auto Insurance,95028-5949457
+09/19/2019,Brewing Company,40.81,debit,Alcohol & Bars,95028-6611199
+09/19/2019,Starbucks,2.75,debit,Coffee Shops,95028-6611199
+09/19/2019,Brewing Company,40.81,debit,Alcohol & Bars,95028-6611199
+09/19/2019,Starbucks,2.75,debit,Coffee Shops,95028-6611199
+09/20/2019,Credit Card Payment,9.43,credit,Credit Card Payment,95028-1307804
+09/22/2019,Seafood Restaurant,131.1,debit,Restaurants,95028-6611199
+09/23/2019,Credit Card Payment,9.43,debit,Credit Card Payment,95028-5949457
+09/23/2019,Grocery Store,27.71,debit,Groceries,95028-6611199
+09/23/2019,Amazon,24.63,debit,Shopping,95028-6611199
+09/23/2019,Credit Card Payment,9.43,debit,Credit Card Payment,95028-5949457
+09/23/2019,Grocery Store,27.71,debit,Groceries,95028-6611199
+09/23/2019,Amazon,24.63,debit,Shopping,95028-6611199
+09/23/2019,Credit Card Payment,9.43,debit,Credit Card Payment,95028-5949457
+09/23/2019,Grocery Store,27.71,debit,Groceries,95028-6611199
+09/23/2019,Amazon,24.63,debit,Shopping,95028-6611199
+09/27/2019,Biweekly Paycheck,2250,credit,Paycheck,95028-5949457
+09/28/2019,BP,33.46,debit,Gas & Fuel,95028-6611199
+09/28/2019,Sheetz,4.27,debit,Gas & Fuel,95028-6611199
+09/28/2019,BP,33.46,debit,Gas & Fuel,95028-6611199
+09/28/2019,Sheetz,4.27,debit,Gas & Fuel,95028-6611199
+09/30/2019,Starbucks,1.75,debit,Coffee Shops,95028-6611199
+09/30/2019,Internet Service Provider,75,debit,Internet,95028-5949457
+09/30/2019,Starbucks,1.75,debit,Coffee Shops,95028-6611199
+09/30/2019,Internet Service Provider,75,debit,Internet,95028-5949457

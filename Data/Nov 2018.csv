@@ -1,0 +1,98 @@
+﻿Date,Description,Amount,Transaction Type,Category,Account Number
+11/01/2018,Amazon,13.13,debit,Shopping,95028-6611199
+11/02/2018,Credit Card Payment,262.51,credit,Credit Card Payment,95028-6611199
+11/02/2018,Credit Card Payment,262.51,debit,Credit Card Payment,95028-5949457
+11/02/2018,Mortgage Payment,1209.18,debit,Mortgage & Rent,95028-5949457
+11/02/2018,Credit Card Payment,262.51,credit,Credit Card Payment,95028-6611199
+11/02/2018,Credit Card Payment,262.51,debit,Credit Card Payment,95028-5949457
+11/02/2018,Mortgage Payment,1209.18,debit,Mortgage & Rent,95028-5949457
+11/02/2018,Credit Card Payment,262.51,credit,Credit Card Payment,95028-6611199
+11/02/2018,Credit Card Payment,262.51,debit,Credit Card Payment,95028-5949457
+11/02/2018,Mortgage Payment,1209.18,debit,Mortgage & Rent,95028-5949457
+11/03/2018,Pizza Place,23.66,debit,Fast Food,95028-6611199
+11/04/2018,Netflix,11.76,debit,Movies & DVDs,95028-6611199
+11/05/2018,Shell,36.51,debit,Gas & Fuel,95028-6611199
+11/06/2018,Amazon,53.95,debit,Shopping,95028-6611199
+11/06/2018,Gas Company,30,debit,Utilities,95028-5949457
+11/06/2018,Amazon,53.95,debit,Shopping,95028-6611199
+11/06/2018,Gas Company,30,debit,Utilities,95028-5949457
+11/08/2018,Grocery Store,5.64,debit,Groceries,95028-6611199
+11/09/2018,Spotify,10.69,debit,Music,95028-6611199
+11/09/2018,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+11/09/2018,Spotify,10.69,debit,Music,95028-6611199
+11/09/2018,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+11/10/2018,Brewing Company,27,debit,Alcohol & Bars,95028-6611199
+11/10/2018,Chick-Fil-A,14.19,debit,Fast Food,95028-6611199
+11/10/2018,Food Truck,24.4,debit,Groceries,95028-6611199
+11/10/2018,Brewing Company,27,debit,Alcohol & Bars,95028-6611199
+11/10/2018,Chick-Fil-A,14.19,debit,Fast Food,95028-6611199
+11/10/2018,Food Truck,24.4,debit,Groceries,95028-6611199
+11/10/2018,Brewing Company,27,debit,Alcohol & Bars,95028-6611199
+11/10/2018,Chick-Fil-A,14.19,debit,Fast Food,95028-6611199
+11/10/2018,Food Truck,24.4,debit,Groceries,95028-6611199
+11/12/2018,Grocery Store,10.18,debit,Groceries,95028-6611199
+11/12/2018,American Tavern,22.33,debit,Restaurants,95028-1307804
+11/12/2018,Grocery Store,10.18,debit,Groceries,95028-6611199
+11/12/2018,American Tavern,22.33,debit,Restaurants,95028-1307804
+11/13/2018,Grocery Store,4.8,debit,Groceries,95028-6611199
+11/13/2018,Grocery Store,37.43,debit,Groceries,95028-6611199
+11/13/2018,Grocery Store,10.15,debit,Groceries,95028-6611199
+11/13/2018,Phone Company,89.54,debit,Mobile Phone,95028-5949457
+11/13/2018,Grocery Store,4.8,debit,Groceries,95028-6611199
+11/13/2018,Grocery Store,37.43,debit,Groceries,95028-6611199
+11/13/2018,Grocery Store,10.15,debit,Groceries,95028-6611199
+11/13/2018,Phone Company,89.54,debit,Mobile Phone,95028-5949457
+11/13/2018,Grocery Store,4.8,debit,Groceries,95028-6611199
+11/13/2018,Grocery Store,37.43,debit,Groceries,95028-6611199
+11/13/2018,Grocery Store,10.15,debit,Groceries,95028-6611199
+11/13/2018,Phone Company,89.54,debit,Mobile Phone,95028-5949457
+11/13/2018,Grocery Store,4.8,debit,Groceries,95028-6611199
+11/13/2018,Grocery Store,37.43,debit,Groceries,95028-6611199
+11/13/2018,Grocery Store,10.15,debit,Groceries,95028-6611199
+11/13/2018,Phone Company,89.54,debit,Mobile Phone,95028-5949457
+11/14/2018,Power Company,60,debit,Utilities,95028-5949457
+11/16/2018,City Water Charges,35,debit,Utilities,95028-5949457
+11/17/2018,Brewing Company,22.8,debit,Alcohol & Bars,95028-6611199
+11/17/2018,Hardware Store,15.47,debit,Home Improvement,95028-6611199
+11/17/2018,Hardware Store,6.4,debit,Home Improvement,95028-6611199
+11/17/2018,Greek Restaurant,23.26,debit,Restaurants,95028-6611199
+11/17/2018,Brewing Company,22.8,debit,Alcohol & Bars,95028-6611199
+11/17/2018,Hardware Store,15.47,debit,Home Improvement,95028-6611199
+11/17/2018,Hardware Store,6.4,debit,Home Improvement,95028-6611199
+11/17/2018,Greek Restaurant,23.26,debit,Restaurants,95028-6611199
+11/17/2018,Brewing Company,22.8,debit,Alcohol & Bars,95028-6611199
+11/17/2018,Hardware Store,15.47,debit,Home Improvement,95028-6611199
+11/17/2018,Hardware Store,6.4,debit,Home Improvement,95028-6611199
+11/17/2018,Greek Restaurant,23.26,debit,Restaurants,95028-6611199
+11/17/2018,Brewing Company,22.8,debit,Alcohol & Bars,95028-6611199
+11/17/2018,Hardware Store,15.47,debit,Home Improvement,95028-6611199
+11/17/2018,Hardware Store,6.4,debit,Home Improvement,95028-6611199
+11/17/2018,Greek Restaurant,23.26,debit,Restaurants,95028-6611199
+11/19/2018,Brewing Company,20,debit,Alcohol & Bars,95028-1307804
+11/19/2018,QuikTrip,29.15,debit,Gas & Fuel,95028-1307804
+11/19/2018,Hardware Store,10.02,debit,Home Improvement,95028-1307804
+11/19/2018,Brewing Company,20,debit,Alcohol & Bars,95028-1307804
+11/19/2018,QuikTrip,29.15,debit,Gas & Fuel,95028-1307804
+11/19/2018,Hardware Store,10.02,debit,Home Improvement,95028-1307804
+11/19/2018,Brewing Company,20,debit,Alcohol & Bars,95028-1307804
+11/19/2018,QuikTrip,29.15,debit,Gas & Fuel,95028-1307804
+11/19/2018,Hardware Store,10.02,debit,Home Improvement,95028-1307804
+11/20/2018,State Farm,75,debit,Auto Insurance,95028-5949457
+11/21/2018,Grocery Store,5.64,debit,Groceries,95028-1307804
+11/21/2018,Hardware Store,37.41,debit,Home Improvement,95028-6611199
+11/21/2018,Grocery Store,5.64,debit,Groceries,95028-1307804
+11/21/2018,Hardware Store,37.41,debit,Home Improvement,95028-6611199
+11/23/2018,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+11/26/2018,American Tavern,16.8,debit,Alcohol & Bars,95028-1307804
+11/26/2018,Internet Service Provider,74.99,debit,Internet,95028-5949457
+11/26/2018,American Tavern,16.8,debit,Alcohol & Bars,95028-1307804
+11/26/2018,Internet Service Provider,74.99,debit,Internet,95028-5949457
+11/27/2018,Movie Theater,17,debit,Movies & DVDs,95028-1307804
+11/27/2018,American Tavern,28.4,debit,Restaurants,95028-1307804
+11/27/2018,Movie Theater,17,debit,Movies & DVDs,95028-1307804
+11/27/2018,American Tavern,28.4,debit,Restaurants,95028-1307804
+11/29/2018,Credit Card Payment,582.99,credit,Credit Card Payment,95028-1307804
+11/30/2018,Credit Card Payment,582.99,debit,Credit Card Payment,95028-5949457
+11/30/2018,Grocery Store,6.27,debit,Groceries,95028-1307804
+11/30/2018,Credit Card Payment,582.99,debit,Credit Card Payment,95028-5949457
+11/30/2018,Grocery Store,6.27,debit,Groceries,95028-1307804

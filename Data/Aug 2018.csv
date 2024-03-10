@@ -1,0 +1,64 @@
+﻿Date,Description,Amount,Transaction Type,Category,Account Number
+08/01/2018,Amazon,13.13,debit,Shopping,95028-6611199
+08/02/2018,Shell,40.44,debit,Gas & Fuel,95028-1307804
+08/02/2018,Mortgage Payment,1247.44,debit,Mortgage & Rent,95028-5949457
+08/02/2018,Shell,40.44,debit,Gas & Fuel,95028-1307804
+08/02/2018,Mortgage Payment,1247.44,debit,Mortgage & Rent,95028-5949457
+08/03/2018,Grocery Store,6.27,debit,Groceries,95028-1307804
+08/03/2018,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+08/03/2018,Grocery Store,6.27,debit,Groceries,95028-1307804
+08/03/2018,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+08/04/2018,Netflix,11.76,debit,Movies & DVDs,95028-6611199
+08/06/2018,Amazon,76.47,debit,Shopping,95028-6611199
+08/09/2018,Spotify,10.69,debit,Music,95028-6611199
+08/09/2018,Gas Company,30,debit,Utilities,95028-5949457
+08/09/2018,Spotify,10.69,debit,Music,95028-6611199
+08/09/2018,Gas Company,30,debit,Utilities,95028-5949457
+08/10/2018,Phone Company,89.4,debit,Mobile Phone,95028-5949457
+08/11/2018,Chick-Fil-A,13.67,debit,Fast Food,95028-6611199
+08/11/2018,Valero,33.66,debit,Gas & Fuel,95028-6611199
+08/11/2018,Chick-Fil-A,13.67,debit,Fast Food,95028-6611199
+08/11/2018,Valero,33.66,debit,Gas & Fuel,95028-6611199
+08/15/2018,Credit Card Payment,269.56,credit,Credit Card Payment,95028-1307804
+08/15/2018,Shell,41.07,debit,Gas & Fuel,95028-6611199
+08/15/2018,Grocery Store,5.64,debit,Groceries,95028-6611199
+08/15/2018,Power Company,60,debit,Utilities,95028-5949457
+08/15/2018,Credit Card Payment,269.56,credit,Credit Card Payment,95028-1307804
+08/15/2018,Shell,41.07,debit,Gas & Fuel,95028-6611199
+08/15/2018,Grocery Store,5.64,debit,Groceries,95028-6611199
+08/15/2018,Power Company,60,debit,Utilities,95028-5949457
+08/15/2018,Credit Card Payment,269.56,credit,Credit Card Payment,95028-1307804
+08/15/2018,Shell,41.07,debit,Gas & Fuel,95028-6611199
+08/15/2018,Grocery Store,5.64,debit,Groceries,95028-6611199
+08/15/2018,Power Company,60,debit,Utilities,95028-5949457
+08/15/2018,Credit Card Payment,269.56,credit,Credit Card Payment,95028-1307804
+08/15/2018,Shell,41.07,debit,Gas & Fuel,95028-6611199
+08/15/2018,Grocery Store,5.64,debit,Groceries,95028-6611199
+08/15/2018,Power Company,60,debit,Utilities,95028-5949457
+08/16/2018,Credit Card Payment,269.56,debit,Credit Card Payment,95028-5949457
+08/16/2018,City Water Charges,35,debit,Utilities,95028-5949457
+08/16/2018,Credit Card Payment,269.56,debit,Credit Card Payment,95028-5949457
+08/16/2018,City Water Charges,35,debit,Utilities,95028-5949457
+08/17/2018,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+08/17/2018,Amazon,14.98,debit,Shopping,95028-6611199
+08/17/2018,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+08/17/2018,Amazon,14.98,debit,Shopping,95028-6611199
+08/18/2018,Amazon,23.47,debit,Shopping,95028-6611199
+08/20/2018,State Farm,75,debit,Auto Insurance,95028-5949457
+08/21/2018,Credit Card Payment,34.18,credit,Credit Card Payment,95028-1307804
+08/21/2018,Credit Card Payment,99.76,credit,Credit Card Payment,95028-6611199
+08/21/2018,Credit Card Payment,99.76,debit,Credit Card Payment,95028-5949457
+08/21/2018,Credit Card Payment,34.18,credit,Credit Card Payment,95028-1307804
+08/21/2018,Credit Card Payment,99.76,credit,Credit Card Payment,95028-6611199
+08/21/2018,Credit Card Payment,99.76,debit,Credit Card Payment,95028-5949457
+08/21/2018,Credit Card Payment,34.18,credit,Credit Card Payment,95028-1307804
+08/21/2018,Credit Card Payment,99.76,credit,Credit Card Payment,95028-6611199
+08/21/2018,Credit Card Payment,99.76,debit,Credit Card Payment,95028-5949457
+08/22/2018,Credit Card Payment,34.18,debit,Credit Card Payment,95028-5949457
+08/24/2018,American Tavern,42.31,debit,Restaurants,95028-6611199
+08/27/2018,Internet Service Provider,74.99,debit,Internet,95028-5949457
+08/30/2018,Shell,35.65,debit,Gas & Fuel,95028-6611199
+08/31/2018,Grocery Store,11.64,debit,Groceries,95028-6611199
+08/31/2018,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+08/31/2018,Grocery Store,11.64,debit,Groceries,95028-6611199
+08/31/2018,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457

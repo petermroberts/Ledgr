@@ -1,0 +1,62 @@
+﻿Date,Description,Amount,Transaction Type,Category,Account Number
+01/01/2018,Amazon,11.11,debit,Shopping,95028-6611199
+01/02/2018,Mortgage Payment,1247.44,debit,Mortgage & Rent,95028-5949457
+01/02/2018,Thai Restaurant,24.22,debit,Restaurants,95028-1307804
+01/02/2018,Mortgage Payment,1247.44,debit,Mortgage & Rent,95028-5949457
+01/02/2018,Thai Restaurant,24.22,debit,Restaurants,95028-1307804
+01/04/2018,Netflix,11.76,debit,Movies & DVDs,95028-6611199
+01/05/2018,American Tavern,25.85,debit,Restaurants,95028-1307804
+01/06/2018,Hardware Store,18.45,debit,Home Improvement,95028-1307804
+01/08/2018,Gas Company,45,debit,Utilities,95028-5949457
+01/08/2018,Hardware Store,15.38,debit,Home Improvement,95028-1307804
+01/08/2018,Gas Company,45,debit,Utilities,95028-5949457
+01/08/2018,Hardware Store,15.38,debit,Home Improvement,95028-1307804
+01/09/2018,Spotify,10.69,debit,Music,95028-6611199
+01/10/2018,Phone Company,89.46,debit,Mobile Phone,95028-5949457
+01/11/2018,Shell,34.87,debit,Gas & Fuel,95028-6611199
+01/11/2018,Grocery Store,43.54,debit,Groceries,95028-6611199
+01/11/2018,Shell,34.87,debit,Gas & Fuel,95028-6611199
+01/11/2018,Grocery Store,43.54,debit,Groceries,95028-6611199
+01/12/2018,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+01/13/2018,Pizza Place,32.91,debit,Fast Food,95028-6611199
+01/13/2018,Amazon,39.05,debit,Shopping,95028-6611199
+01/13/2018,Pizza Place,32.91,debit,Fast Food,95028-6611199
+01/13/2018,Amazon,39.05,debit,Shopping,95028-6611199
+01/15/2018,Grocery Store,44.19,debit,Groceries,95028-1307804
+01/15/2018,American Tavern,64.11,debit,Restaurants,95028-1307804
+01/15/2018,Grocery Store,44.19,debit,Groceries,95028-1307804
+01/15/2018,American Tavern,64.11,debit,Restaurants,95028-1307804
+01/16/2018,City Water Charges,35,debit,Utilities,95028-5949457
+01/16/2018,Power Company,60,debit,Utilities,95028-5949457
+01/16/2018,City Water Charges,35,debit,Utilities,95028-5949457
+01/16/2018,Power Company,60,debit,Utilities,95028-5949457
+01/19/2018,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+01/20/2018,Amazon,50.21,debit,Shopping,95028-6611199
+01/22/2018,Credit Card Payment,554.99,credit,Credit Card Payment,95028-6611199
+01/22/2018,Credit Card Payment,309.81,credit,Credit Card Payment,95028-1307804
+01/22/2018,Credit Card Payment,554.99,debit,Credit Card Payment,95028-5949457
+01/22/2018,Hardware Store,17.38,debit,Home Improvement,95028-1307804
+01/22/2018,Credit Card Payment,554.99,credit,Credit Card Payment,95028-6611199
+01/22/2018,Credit Card Payment,309.81,credit,Credit Card Payment,95028-1307804
+01/22/2018,Credit Card Payment,554.99,debit,Credit Card Payment,95028-5949457
+01/22/2018,Hardware Store,17.38,debit,Home Improvement,95028-1307804
+01/22/2018,Credit Card Payment,554.99,credit,Credit Card Payment,95028-6611199
+01/22/2018,Credit Card Payment,309.81,credit,Credit Card Payment,95028-1307804
+01/22/2018,Credit Card Payment,554.99,debit,Credit Card Payment,95028-5949457
+01/22/2018,Hardware Store,17.38,debit,Home Improvement,95028-1307804
+01/22/2018,Credit Card Payment,554.99,credit,Credit Card Payment,95028-6611199
+01/22/2018,Credit Card Payment,309.81,credit,Credit Card Payment,95028-1307804
+01/22/2018,Credit Card Payment,554.99,debit,Credit Card Payment,95028-5949457
+01/22/2018,Hardware Store,17.38,debit,Home Improvement,95028-1307804
+01/23/2018,Credit Card Payment,309.81,debit,Credit Card Payment,95028-5949457
+01/24/2018,Starbucks,3,debit,Coffee Shops,95028-6611199
+01/25/2018,Internet Service Provider,69.99,debit,Internet,95028-5949457
+01/29/2018,Shell,30.42,debit,Gas & Fuel,95028-1307804
+01/29/2018,Thai Restaurant,25,debit,Restaurants,95028-1307804
+01/29/2018,Brunch Restaurant,17.62,debit,Restaurants,95028-6611199
+01/29/2018,Shell,30.42,debit,Gas & Fuel,95028-1307804
+01/29/2018,Thai Restaurant,25,debit,Restaurants,95028-1307804
+01/29/2018,Brunch Restaurant,17.62,debit,Restaurants,95028-6611199
+01/29/2018,Shell,30.42,debit,Gas & Fuel,95028-1307804
+01/29/2018,Thai Restaurant,25,debit,Restaurants,95028-1307804
+01/29/2018,Brunch Restaurant,17.62,debit,Restaurants,95028-6611199

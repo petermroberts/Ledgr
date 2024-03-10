@@ -1,0 +1,161 @@
+﻿Date,Description,Amount,Transaction Type,Category,Account Number
+12/01/2018,Grocery Store,5.64,debit,Groceries,95028-1307804
+12/01/2018,Brunch Restaurant,8,debit,Restaurants,95028-1307804
+12/01/2018,Amazon,13.13,debit,Shopping,95028-6611199
+12/01/2018,Grocery Store,5.64,debit,Groceries,95028-1307804
+12/01/2018,Brunch Restaurant,8,debit,Restaurants,95028-1307804
+12/01/2018,Amazon,13.13,debit,Shopping,95028-6611199
+12/01/2018,Grocery Store,5.64,debit,Groceries,95028-1307804
+12/01/2018,Brunch Restaurant,8,debit,Restaurants,95028-1307804
+12/01/2018,Amazon,13.13,debit,Shopping,95028-6611199
+12/03/2018,BP,30.03,debit,Gas & Fuel,95028-1307804
+12/03/2018,Grocery Store,148.15,debit,Groceries,95028-1307804
+12/03/2018,Mortgage Payment,1209.18,debit,Mortgage & Rent,95028-5949457
+12/03/2018,BP,30.03,debit,Gas & Fuel,95028-1307804
+12/03/2018,Grocery Store,148.15,debit,Groceries,95028-1307804
+12/03/2018,Mortgage Payment,1209.18,debit,Mortgage & Rent,95028-5949457
+12/03/2018,BP,30.03,debit,Gas & Fuel,95028-1307804
+12/03/2018,Grocery Store,148.15,debit,Groceries,95028-1307804
+12/03/2018,Mortgage Payment,1209.18,debit,Mortgage & Rent,95028-5949457
+12/04/2018,Starbucks,3,debit,Coffee Shops,95028-1307804
+12/04/2018,Latin Restaurant,20.65,debit,Fast Food,95028-6611199
+12/04/2018,Netflix,11.76,debit,Movies & DVDs,95028-6611199
+12/04/2018,Starbucks,3,debit,Coffee Shops,95028-1307804
+12/04/2018,Latin Restaurant,20.65,debit,Fast Food,95028-6611199
+12/04/2018,Netflix,11.76,debit,Movies & DVDs,95028-6611199
+12/04/2018,Starbucks,3,debit,Coffee Shops,95028-1307804
+12/04/2018,Latin Restaurant,20.65,debit,Fast Food,95028-6611199
+12/04/2018,Netflix,11.76,debit,Movies & DVDs,95028-6611199
+12/06/2018,Grocery Store,21.38,debit,Groceries,95028-6611199
+12/06/2018,Grocery Store,13.48,debit,Groceries,95028-6611199
+12/06/2018,Gas Company,40,debit,Utilities,95028-5949457
+12/06/2018,Grocery Store,21.38,debit,Groceries,95028-6611199
+12/06/2018,Grocery Store,13.48,debit,Groceries,95028-6611199
+12/06/2018,Gas Company,40,debit,Utilities,95028-5949457
+12/06/2018,Grocery Store,21.38,debit,Groceries,95028-6611199
+12/06/2018,Grocery Store,13.48,debit,Groceries,95028-6611199
+12/06/2018,Gas Company,40,debit,Utilities,95028-5949457
+12/07/2018,Barbershop,30,debit,Haircut,95028-6611199
+12/07/2018,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+12/07/2018,Barbershop,30,debit,Haircut,95028-6611199
+12/07/2018,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+12/08/2018,Grocery Store,12.64,debit,Groceries,95028-6611199
+12/09/2018,Spotify,10.69,debit,Music,95028-6611199
+12/11/2018,Brunch Restaurant,10.29,debit,Restaurants,95028-6611199
+12/12/2018,Phone Company,89.54,debit,Mobile Phone,95028-5949457
+12/13/2018,Thai Restaurant,27,debit,Restaurants,95028-1307804
+12/14/2018,Grocery Store,21.39,debit,Groceries,95028-1307804
+12/14/2018,Hardware Store,17.1,debit,Home Improvement,95028-1307804
+12/14/2018,Power Company,60,debit,Utilities,95028-5949457
+12/14/2018,Grocery Store,21.39,debit,Groceries,95028-1307804
+12/14/2018,Hardware Store,17.1,debit,Home Improvement,95028-1307804
+12/14/2018,Power Company,60,debit,Utilities,95028-5949457
+12/14/2018,Grocery Store,21.39,debit,Groceries,95028-1307804
+12/14/2018,Hardware Store,17.1,debit,Home Improvement,95028-1307804
+12/14/2018,Power Company,60,debit,Utilities,95028-5949457
+12/17/2018,American Tavern,63,debit,Food & Dining,95028-1307804
+12/17/2018,BP,20.01,debit,Gas & Fuel,95028-1307804
+12/17/2018,City Water Charges,35,debit,Utilities,95028-5949457
+12/17/2018,American Tavern,63,debit,Food & Dining,95028-1307804
+12/17/2018,BP,20.01,debit,Gas & Fuel,95028-1307804
+12/17/2018,City Water Charges,35,debit,Utilities,95028-5949457
+12/17/2018,American Tavern,63,debit,Food & Dining,95028-1307804
+12/17/2018,BP,20.01,debit,Gas & Fuel,95028-1307804
+12/17/2018,City Water Charges,35,debit,Utilities,95028-5949457
+12/18/2018,Starbucks,3,debit,Coffee Shops,95028-1307804
+12/18/2018,Credit Card Payment,311.02,credit,Credit Card Payment,95028-6611199
+12/18/2018,Credit Card Payment,311.02,debit,Credit Card Payment,95028-5949457
+12/18/2018,Fancy Restaurant,56.52,debit,Restaurants,95028-1307804
+12/18/2018,Amazon,49.99,debit,Shopping,95028-6611199
+12/18/2018,Amazon,41.72,debit,Shopping,95028-6611199
+12/18/2018,Amazon,24.3,debit,Shopping,95028-6611199
+12/18/2018,Starbucks,3,debit,Coffee Shops,95028-1307804
+12/18/2018,Credit Card Payment,311.02,credit,Credit Card Payment,95028-6611199
+12/18/2018,Credit Card Payment,311.02,debit,Credit Card Payment,95028-5949457
+12/18/2018,Fancy Restaurant,56.52,debit,Restaurants,95028-1307804
+12/18/2018,Amazon,49.99,debit,Shopping,95028-6611199
+12/18/2018,Amazon,41.72,debit,Shopping,95028-6611199
+12/18/2018,Amazon,24.3,debit,Shopping,95028-6611199
+12/18/2018,Starbucks,3,debit,Coffee Shops,95028-1307804
+12/18/2018,Credit Card Payment,311.02,credit,Credit Card Payment,95028-6611199
+12/18/2018,Credit Card Payment,311.02,debit,Credit Card Payment,95028-5949457
+12/18/2018,Fancy Restaurant,56.52,debit,Restaurants,95028-1307804
+12/18/2018,Amazon,49.99,debit,Shopping,95028-6611199
+12/18/2018,Amazon,41.72,debit,Shopping,95028-6611199
+12/18/2018,Amazon,24.3,debit,Shopping,95028-6611199
+12/18/2018,Starbucks,3,debit,Coffee Shops,95028-1307804
+12/18/2018,Credit Card Payment,311.02,credit,Credit Card Payment,95028-6611199
+12/18/2018,Credit Card Payment,311.02,debit,Credit Card Payment,95028-5949457
+12/18/2018,Fancy Restaurant,56.52,debit,Restaurants,95028-1307804
+12/18/2018,Amazon,49.99,debit,Shopping,95028-6611199
+12/18/2018,Amazon,41.72,debit,Shopping,95028-6611199
+12/18/2018,Amazon,24.3,debit,Shopping,95028-6611199
+12/18/2018,Starbucks,3,debit,Coffee Shops,95028-1307804
+12/18/2018,Credit Card Payment,311.02,credit,Credit Card Payment,95028-6611199
+12/18/2018,Credit Card Payment,311.02,debit,Credit Card Payment,95028-5949457
+12/18/2018,Fancy Restaurant,56.52,debit,Restaurants,95028-1307804
+12/18/2018,Amazon,49.99,debit,Shopping,95028-6611199
+12/18/2018,Amazon,41.72,debit,Shopping,95028-6611199
+12/18/2018,Amazon,24.3,debit,Shopping,95028-6611199
+12/18/2018,Starbucks,3,debit,Coffee Shops,95028-1307804
+12/18/2018,Credit Card Payment,311.02,credit,Credit Card Payment,95028-6611199
+12/18/2018,Credit Card Payment,311.02,debit,Credit Card Payment,95028-5949457
+12/18/2018,Fancy Restaurant,56.52,debit,Restaurants,95028-1307804
+12/18/2018,Amazon,49.99,debit,Shopping,95028-6611199
+12/18/2018,Amazon,41.72,debit,Shopping,95028-6611199
+12/18/2018,Amazon,24.3,debit,Shopping,95028-6611199
+12/18/2018,Starbucks,3,debit,Coffee Shops,95028-1307804
+12/18/2018,Credit Card Payment,311.02,credit,Credit Card Payment,95028-6611199
+12/18/2018,Credit Card Payment,311.02,debit,Credit Card Payment,95028-5949457
+12/18/2018,Fancy Restaurant,56.52,debit,Restaurants,95028-1307804
+12/18/2018,Amazon,49.99,debit,Shopping,95028-6611199
+12/18/2018,Amazon,41.72,debit,Shopping,95028-6611199
+12/18/2018,Amazon,24.3,debit,Shopping,95028-6611199
+12/19/2018,State Farm,75,debit,Auto Insurance,95028-5949457
+12/19/2018,Amazon,43.01,debit,Shopping,95028-6611199
+12/19/2018,State Farm,75,debit,Auto Insurance,95028-5949457
+12/19/2018,Amazon,43.01,debit,Shopping,95028-6611199
+12/20/2018,Credit Card Payment,464.03,credit,Credit Card Payment,95028-1307804
+12/20/2018,Shell,30.38,debit,Gas & Fuel,95028-1307804
+12/20/2018,Credit Card Payment,464.03,credit,Credit Card Payment,95028-1307804
+12/20/2018,Shell,30.38,debit,Gas & Fuel,95028-1307804
+12/21/2018,Credit Card Payment,464.03,debit,Credit Card Payment,95028-5949457
+12/21/2018,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+12/21/2018,Credit Card Payment,464.03,debit,Credit Card Payment,95028-5949457
+12/21/2018,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+12/22/2018,New York Deli,21.38,debit,Fast Food,95028-6611199
+12/22/2018,Hardware Store,22.14,debit,Home Improvement,95028-6611199
+12/22/2018,New York Deli,21.38,debit,Fast Food,95028-6611199
+12/22/2018,Hardware Store,22.14,debit,Home Improvement,95028-6611199
+12/23/2018,Hardware Store,28,debit,Home Improvement,95028-6611199
+12/24/2018,Hardware Store,38.4,debit,Home Improvement,95028-6611199
+12/26/2018,Chick-Fil-A,56.07,debit,Fast Food,95028-6611199
+12/26/2018,Shell,32.47,debit,Gas & Fuel,95028-6611199
+12/26/2018,Shell,7.48,debit,Gas & Fuel,95028-6611199
+12/26/2018,Internet Service Provider,75.99,debit,Internet,95028-5949457
+12/26/2018,Amazon,44.99,debit,Shopping,95028-6611199
+12/26/2018,Chick-Fil-A,56.07,debit,Fast Food,95028-6611199
+12/26/2018,Shell,32.47,debit,Gas & Fuel,95028-6611199
+12/26/2018,Shell,7.48,debit,Gas & Fuel,95028-6611199
+12/26/2018,Internet Service Provider,75.99,debit,Internet,95028-5949457
+12/26/2018,Amazon,44.99,debit,Shopping,95028-6611199
+12/26/2018,Chick-Fil-A,56.07,debit,Fast Food,95028-6611199
+12/26/2018,Shell,32.47,debit,Gas & Fuel,95028-6611199
+12/26/2018,Shell,7.48,debit,Gas & Fuel,95028-6611199
+12/26/2018,Internet Service Provider,75.99,debit,Internet,95028-5949457
+12/26/2018,Amazon,44.99,debit,Shopping,95028-6611199
+12/26/2018,Chick-Fil-A,56.07,debit,Fast Food,95028-6611199
+12/26/2018,Shell,32.47,debit,Gas & Fuel,95028-6611199
+12/26/2018,Shell,7.48,debit,Gas & Fuel,95028-6611199
+12/26/2018,Internet Service Provider,75.99,debit,Internet,95028-5949457
+12/26/2018,Amazon,44.99,debit,Shopping,95028-6611199
+12/26/2018,Chick-Fil-A,56.07,debit,Fast Food,95028-6611199
+12/26/2018,Shell,32.47,debit,Gas & Fuel,95028-6611199
+12/26/2018,Shell,7.48,debit,Gas & Fuel,95028-6611199
+12/26/2018,Internet Service Provider,75.99,debit,Internet,95028-5949457
+12/26/2018,Amazon,44.99,debit,Shopping,95028-6611199
+12/28/2018,Brewing Company,12,debit,Alcohol & Bars,95028-1307804
+12/29/2018,Brewing Company,14,debit,Alcohol & Bars,95028-1307804
+12/29/2018,Grocery Store,55.04,debit,Groceries,95028-1307804
+12/29/2018,Brewing Company,14,debit,Alcohol & Bars,95028-1307804
+12/29/2018,Grocery Store,55.04,debit,Groceries,95028-1307804

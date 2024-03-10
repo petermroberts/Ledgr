@@ -1,0 +1,93 @@
+﻿Date,Description,Amount,Transaction Type,Category,Account Number
+07/01/2019,Starbucks,7,debit,Coffee Shops,95028-1307804
+07/01/2019,Grocery Store,99.47,debit,Groceries,95028-1307804
+07/01/2019,Hawaiian Grill,24.97,debit,Restaurants,95028-1307804
+07/01/2019,Thai Restaurant,24,debit,Restaurants,95028-1307804
+07/01/2019,Amazon,13.09,debit,Shopping,95028-6611199
+07/01/2019,Starbucks,7,debit,Coffee Shops,95028-1307804
+07/01/2019,Grocery Store,99.47,debit,Groceries,95028-1307804
+07/01/2019,Hawaiian Grill,24.97,debit,Restaurants,95028-1307804
+07/01/2019,Thai Restaurant,24,debit,Restaurants,95028-1307804
+07/01/2019,Amazon,13.09,debit,Shopping,95028-6611199
+07/01/2019,Starbucks,7,debit,Coffee Shops,95028-1307804
+07/01/2019,Grocery Store,99.47,debit,Groceries,95028-1307804
+07/01/2019,Hawaiian Grill,24.97,debit,Restaurants,95028-1307804
+07/01/2019,Thai Restaurant,24,debit,Restaurants,95028-1307804
+07/01/2019,Amazon,13.09,debit,Shopping,95028-6611199
+07/01/2019,Starbucks,7,debit,Coffee Shops,95028-1307804
+07/01/2019,Grocery Store,99.47,debit,Groceries,95028-1307804
+07/01/2019,Hawaiian Grill,24.97,debit,Restaurants,95028-1307804
+07/01/2019,Thai Restaurant,24,debit,Restaurants,95028-1307804
+07/01/2019,Amazon,13.09,debit,Shopping,95028-6611199
+07/01/2019,Starbucks,7,debit,Coffee Shops,95028-1307804
+07/01/2019,Grocery Store,99.47,debit,Groceries,95028-1307804
+07/01/2019,Hawaiian Grill,24.97,debit,Restaurants,95028-1307804
+07/01/2019,Thai Restaurant,24,debit,Restaurants,95028-1307804
+07/01/2019,Amazon,13.09,debit,Shopping,95028-6611199
+07/02/2019,Hardware Store,229.9,debit,Home Improvement,95028-6611199
+07/02/2019,Mortgage Payment,1100,debit,Mortgage & Rent,95028-5949457
+07/02/2019,Hardware Store,229.9,debit,Home Improvement,95028-6611199
+07/02/2019,Mortgage Payment,1100,debit,Mortgage & Rent,95028-5949457
+07/04/2019,Netflix,13.9,debit,Television,95028-6611199
+07/05/2019,Brewing Company,19,debit,Alcohol & Bars,95028-1307804
+07/05/2019,Biweekly Paycheck,2250,credit,Paycheck,95028-5949457
+07/05/2019,Brewing Company,19,debit,Alcohol & Bars,95028-1307804
+07/05/2019,Biweekly Paycheck,2250,credit,Paycheck,95028-5949457
+07/06/2019,Credit Card Payment,220.08,credit,Credit Card Payment,95028-1307804
+07/06/2019,Grocery Store,92.98,debit,Groceries,95028-6611199
+07/06/2019,Greek Restaurant,23.26,debit,Restaurants,95028-6611199
+07/06/2019,Credit Card Payment,220.08,credit,Credit Card Payment,95028-1307804
+07/06/2019,Grocery Store,92.98,debit,Groceries,95028-6611199
+07/06/2019,Greek Restaurant,23.26,debit,Restaurants,95028-6611199
+07/06/2019,Credit Card Payment,220.08,credit,Credit Card Payment,95028-1307804
+07/06/2019,Grocery Store,92.98,debit,Groceries,95028-6611199
+07/06/2019,Greek Restaurant,23.26,debit,Restaurants,95028-6611199
+07/07/2019,Hardware Store,103.14,debit,Home Improvement,95028-6611199
+07/08/2019,Credit Card Payment,220.08,debit,Credit Card Payment,95028-5949457
+07/09/2019,Spotify,10.69,debit,Music,95028-6611199
+07/10/2019,Phone Company,65,debit,Mobile Phone,95028-5949457
+07/10/2019,Gas Company,30,debit,Utilities,95028-5949457
+07/10/2019,Phone Company,65,debit,Mobile Phone,95028-5949457
+07/10/2019,Gas Company,30,debit,Utilities,95028-5949457
+07/15/2019,Grocery Store,87.14,debit,Groceries,95028-1307804
+07/16/2019,Amazon,89.99,debit,Shopping,95028-6611199
+07/16/2019,Power Company,60,debit,Utilities,95028-5949457
+07/16/2019,Amazon,89.99,debit,Shopping,95028-6611199
+07/16/2019,Power Company,60,debit,Utilities,95028-5949457
+07/17/2019,City Water Charges,35,debit,Utilities,95028-5949457
+07/18/2019,State Farm,75,debit,Auto Insurance,95028-5949457
+07/18/2019,BP,36.42,debit,Gas & Fuel,95028-1307804
+07/18/2019,Grocery Store,29.83,debit,Groceries,95028-6611199
+07/18/2019,Brunch Restaurant,8.82,debit,Restaurants,95028-6611199
+07/18/2019,State Farm,75,debit,Auto Insurance,95028-5949457
+07/18/2019,BP,36.42,debit,Gas & Fuel,95028-1307804
+07/18/2019,Grocery Store,29.83,debit,Groceries,95028-6611199
+07/18/2019,Brunch Restaurant,8.82,debit,Restaurants,95028-6611199
+07/18/2019,State Farm,75,debit,Auto Insurance,95028-5949457
+07/18/2019,BP,36.42,debit,Gas & Fuel,95028-1307804
+07/18/2019,Grocery Store,29.83,debit,Groceries,95028-6611199
+07/18/2019,Brunch Restaurant,8.82,debit,Restaurants,95028-6611199
+07/18/2019,State Farm,75,debit,Auto Insurance,95028-5949457
+07/18/2019,BP,36.42,debit,Gas & Fuel,95028-1307804
+07/18/2019,Grocery Store,29.83,debit,Groceries,95028-6611199
+07/18/2019,Brunch Restaurant,8.82,debit,Restaurants,95028-6611199
+07/19/2019,Biweekly Paycheck,2250,credit,Paycheck,95028-5949457
+07/19/2019,Mexican Restaurant,28,debit,Restaurants,95028-6611199
+07/19/2019,Biweekly Paycheck,2250,credit,Paycheck,95028-5949457
+07/19/2019,Mexican Restaurant,28,debit,Restaurants,95028-6611199
+07/22/2019,Credit Card Payment,257.08,credit,Credit Card Payment,95028-1307804
+07/22/2019,Thai Restaurant,26.67,debit,Restaurants,95028-1307804
+07/22/2019,Credit Card Payment,257.08,credit,Credit Card Payment,95028-1307804
+07/22/2019,Thai Restaurant,26.67,debit,Restaurants,95028-1307804
+07/23/2019,Credit Card Payment,257.08,debit,Credit Card Payment,95028-5949457
+07/24/2019,Starbucks,2.5,debit,Coffee Shops,95028-1307804
+07/27/2019,Barbershop,30,debit,Haircut,95028-1307804
+07/28/2019,Hardware Store,44.31,debit,Home Improvement,95028-6611199
+07/29/2019,Grocery Store,5.35,debit,Groceries,95028-6611199
+07/29/2019,Fancy Restaurant,44.92,debit,Restaurants,95028-1307804
+07/29/2019,Grocery Store,5.35,debit,Groceries,95028-6611199
+07/29/2019,Fancy Restaurant,44.92,debit,Restaurants,95028-1307804
+07/30/2019,Grocery Store,15.77,debit,Groceries,95028-6611199
+07/30/2019,Internet Service Provider,75,debit,Internet,95028-5949457
+07/30/2019,Grocery Store,15.77,debit,Groceries,95028-6611199
+07/30/2019,Internet Service Provider,75,debit,Internet,95028-5949457

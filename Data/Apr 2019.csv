@@ -1,0 +1,73 @@
+﻿Date,Description,Amount,Transaction Type,Category,Account Number
+04/01/2019,Amazon,13.09,debit,Shopping,95028-6611199
+04/02/2019,Mortgage Payment,1100,debit,Mortgage & Rent,95028-5949457
+04/04/2019,Grocery Store,5.64,debit,Groceries,95028-6611199
+04/04/2019,Amazon,35.9,debit,Shopping,95028-6611199
+04/04/2019,Netflix,11.76,debit,Television,95028-6611199
+04/04/2019,Grocery Store,5.64,debit,Groceries,95028-6611199
+04/04/2019,Amazon,35.9,debit,Shopping,95028-6611199
+04/04/2019,Netflix,11.76,debit,Television,95028-6611199
+04/04/2019,Grocery Store,5.64,debit,Groceries,95028-6611199
+04/04/2019,Amazon,35.9,debit,Shopping,95028-6611199
+04/04/2019,Netflix,11.76,debit,Television,95028-6611199
+04/06/2019,Amazon,27.54,debit,Shopping,95028-6611199
+04/08/2019,Gas Company,30,debit,Utilities,95028-5949457
+04/09/2019,Grocery Store,10.7,debit,Groceries,95028-6611199
+04/09/2019,Barbershop,30,debit,Haircut,95028-6611199
+04/09/2019,Spotify,10.69,debit,Music,95028-6611199
+04/09/2019,Grocery Store,10.7,debit,Groceries,95028-6611199
+04/09/2019,Barbershop,30,debit,Haircut,95028-6611199
+04/09/2019,Spotify,10.69,debit,Music,95028-6611199
+04/09/2019,Grocery Store,10.7,debit,Groceries,95028-6611199
+04/09/2019,Barbershop,30,debit,Haircut,95028-6611199
+04/09/2019,Spotify,10.69,debit,Music,95028-6611199
+04/10/2019,Phone Company,65,debit,Mobile Phone,95028-5949457
+04/12/2019,Best Buy,44.93,debit,Electronics & Software,95028-1307804
+04/12/2019,Grocery Store,41.34,debit,Groceries,95028-6611199
+04/12/2019,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+04/12/2019,Best Buy,44.93,debit,Electronics & Software,95028-1307804
+04/12/2019,Grocery Store,41.34,debit,Groceries,95028-6611199
+04/12/2019,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+04/12/2019,Best Buy,44.93,debit,Electronics & Software,95028-1307804
+04/12/2019,Grocery Store,41.34,debit,Groceries,95028-6611199
+04/12/2019,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+04/13/2019,QuikTrip,38.94,debit,Gas & Fuel,95028-6611199
+04/13/2019,Grocery Store,16.87,debit,Groceries,95028-6611199
+04/13/2019,Vietnamese Restaurant,20.64,debit,Restaurants,95028-6611199
+04/13/2019,QuikTrip,38.94,debit,Gas & Fuel,95028-6611199
+04/13/2019,Grocery Store,16.87,debit,Groceries,95028-6611199
+04/13/2019,Vietnamese Restaurant,20.64,debit,Restaurants,95028-6611199
+04/13/2019,QuikTrip,38.94,debit,Gas & Fuel,95028-6611199
+04/13/2019,Grocery Store,16.87,debit,Groceries,95028-6611199
+04/13/2019,Vietnamese Restaurant,20.64,debit,Restaurants,95028-6611199
+04/15/2019,Power Company,60,debit,Utilities,95028-5949457
+04/16/2019,City Water Charges,35,debit,Utilities,95028-5949457
+04/18/2019,State Farm,75,debit,Auto Insurance,95028-5949457
+04/18/2019,Credit Card Payment,604.32,credit,Credit Card Payment,95028-1307804
+04/18/2019,State Farm,75,debit,Auto Insurance,95028-5949457
+04/18/2019,Credit Card Payment,604.32,credit,Credit Card Payment,95028-1307804
+04/19/2019,Credit Card Payment,604.32,debit,Credit Card Payment,95028-5949457
+04/19/2019,Grocery Store,10.89,debit,Groceries,95028-6611199
+04/19/2019,Credit Card Payment,604.32,debit,Credit Card Payment,95028-5949457
+04/19/2019,Grocery Store,10.89,debit,Groceries,95028-6611199
+04/22/2019,Brewing Company,14.4,debit,Alcohol & Bars,95028-1307804
+04/22/2019,Greek Restaurant,64.52,debit,Restaurants,95028-1307804
+04/22/2019,Brewing Company,14.4,debit,Alcohol & Bars,95028-1307804
+04/22/2019,Greek Restaurant,64.52,debit,Restaurants,95028-1307804
+04/23/2019,Hardware Store,29.56,debit,Home Improvement,95028-1307804
+04/25/2019,Internet Service Provider,75,debit,Internet,95028-5949457
+04/26/2019,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+04/27/2019,Brewing Company,40,debit,Alcohol & Bars,95028-6611199
+04/27/2019,Credit Card Payment,268.96,credit,Credit Card Payment,95028-1307804
+04/27/2019,American Tavern,14.74,debit,Restaurants,95028-1307804
+04/27/2019,Brewing Company,40,debit,Alcohol & Bars,95028-6611199
+04/27/2019,Credit Card Payment,268.96,credit,Credit Card Payment,95028-1307804
+04/27/2019,American Tavern,14.74,debit,Restaurants,95028-1307804
+04/27/2019,Brewing Company,40,debit,Alcohol & Bars,95028-6611199
+04/27/2019,Credit Card Payment,268.96,credit,Credit Card Payment,95028-1307804
+04/27/2019,American Tavern,14.74,debit,Restaurants,95028-1307804
+04/29/2019,Credit Card Payment,268.96,debit,Credit Card Payment,95028-5949457
+04/29/2019,Grocery Store,5.64,debit,Groceries,95028-6611199
+04/29/2019,Credit Card Payment,268.96,debit,Credit Card Payment,95028-5949457
+04/29/2019,Grocery Store,5.64,debit,Groceries,95028-6611199
+04/30/2019,BP,39.08,debit,Gas & Fuel,95028-6611199

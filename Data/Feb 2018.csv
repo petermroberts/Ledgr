@@ -1,0 +1,83 @@
+﻿Date,Description,Amount,Transaction Type,Category,Account Number
+02/01/2018,Grocery Store,27.79,debit,Groceries,95028-6611199
+02/01/2018,Amazon,11.11,debit,Shopping,95028-6611199
+02/01/2018,Grocery Store,27.79,debit,Groceries,95028-6611199
+02/01/2018,Amazon,11.11,debit,Shopping,95028-6611199
+02/02/2018,Mortgage Payment,1247.44,debit,Mortgage & Rent,95028-5949457
+02/02/2018,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+02/02/2018,Mortgage Payment,1247.44,debit,Mortgage & Rent,95028-5949457
+02/02/2018,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+02/03/2018,Japanese Restaurant,57.02,debit,Restaurants,95028-6611199
+02/04/2018,Netflix,11.76,debit,Movies & DVDs,95028-6611199
+02/06/2018,Credit Card Payment,154.13,credit,Credit Card Payment,95028-1307804
+02/07/2018,Credit Card Payment,154.13,debit,Credit Card Payment,95028-5949457
+02/07/2018,Gas Company,65,debit,Utilities,95028-5949457
+02/07/2018,Credit Card Payment,154.13,debit,Credit Card Payment,95028-5949457
+02/07/2018,Gas Company,65,debit,Utilities,95028-5949457
+02/09/2018,Barbershop,30,debit,Haircut,95028-6611199
+02/09/2018,Spotify,10.69,debit,Music,95028-6611199
+02/09/2018,Barbershop,30,debit,Haircut,95028-6611199
+02/09/2018,Spotify,10.69,debit,Music,95028-6611199
+02/10/2018,Bojangles,10.66,debit,Fast Food,95028-6611199
+02/11/2018,Fancy Restaurant,106.8,debit,Restaurants,95028-6611199
+02/12/2018,Shell,36.47,debit,Gas & Fuel,95028-1307804
+02/12/2018,Phone Company,89.52,debit,Mobile Phone,95028-5949457
+02/12/2018,Shell,36.47,debit,Gas & Fuel,95028-1307804
+02/12/2018,Phone Company,89.52,debit,Mobile Phone,95028-5949457
+02/14/2018,Brewing Company,14,debit,Alcohol & Bars,95028-1307804
+02/15/2018,American Tavern,10,debit,Restaurants,95028-6611199
+02/15/2018,Power Company,60,debit,Utilities,95028-5949457
+02/15/2018,American Tavern,10,debit,Restaurants,95028-6611199
+02/15/2018,Power Company,60,debit,Utilities,95028-5949457
+02/16/2018,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+02/16/2018,Brunch Restaurant,8,debit,Restaurants,95028-1307804
+02/16/2018,City Water Charges,35,debit,Utilities,95028-5949457
+02/16/2018,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+02/16/2018,Brunch Restaurant,8,debit,Restaurants,95028-1307804
+02/16/2018,City Water Charges,35,debit,Utilities,95028-5949457
+02/16/2018,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+02/16/2018,Brunch Restaurant,8,debit,Restaurants,95028-1307804
+02/16/2018,City Water Charges,35,debit,Utilities,95028-5949457
+02/20/2018,Grocery Store,35.95,debit,Groceries,95028-1307804
+02/20/2018,Mexican Restaurant,23.51,debit,Restaurants,95028-1307804
+02/20/2018,Grocery Store,35.95,debit,Groceries,95028-1307804
+02/20/2018,Mexican Restaurant,23.51,debit,Restaurants,95028-1307804
+02/21/2018,Starbucks,2,debit,Coffee Shops,95028-6611199
+02/22/2018,Starbucks,4,debit,Coffee Shops,95028-1307804
+02/26/2018,Credit Card Payment,765.37,credit,Credit Card Payment,95028-6611199
+02/26/2018,Credit Card Payment,156.11,credit,Credit Card Payment,95028-1307804
+02/26/2018,Credit Card Payment,765.37,debit,Credit Card Payment,95028-5949457
+02/26/2018,Internet Service Provider,74.99,debit,Internet,95028-5949457
+02/26/2018,American Tavern,85.52,debit,Restaurants,95028-1307804
+02/26/2018,Gas Station,32.21,debit,Gas & Fuel,95028-1307804
+02/26/2018,Credit Card Payment,765.37,credit,Credit Card Payment,95028-6611199
+02/26/2018,Credit Card Payment,156.11,credit,Credit Card Payment,95028-1307804
+02/26/2018,Credit Card Payment,765.37,debit,Credit Card Payment,95028-5949457
+02/26/2018,Internet Service Provider,74.99,debit,Internet,95028-5949457
+02/26/2018,American Tavern,85.52,debit,Restaurants,95028-1307804
+02/26/2018,Gas Station,32.21,debit,Gas & Fuel,95028-1307804
+02/26/2018,Credit Card Payment,765.37,credit,Credit Card Payment,95028-6611199
+02/26/2018,Credit Card Payment,156.11,credit,Credit Card Payment,95028-1307804
+02/26/2018,Credit Card Payment,765.37,debit,Credit Card Payment,95028-5949457
+02/26/2018,Internet Service Provider,74.99,debit,Internet,95028-5949457
+02/26/2018,American Tavern,85.52,debit,Restaurants,95028-1307804
+02/26/2018,Gas Station,32.21,debit,Gas & Fuel,95028-1307804
+02/26/2018,Credit Card Payment,765.37,credit,Credit Card Payment,95028-6611199
+02/26/2018,Credit Card Payment,156.11,credit,Credit Card Payment,95028-1307804
+02/26/2018,Credit Card Payment,765.37,debit,Credit Card Payment,95028-5949457
+02/26/2018,Internet Service Provider,74.99,debit,Internet,95028-5949457
+02/26/2018,American Tavern,85.52,debit,Restaurants,95028-1307804
+02/26/2018,Gas Station,32.21,debit,Gas & Fuel,95028-1307804
+02/26/2018,Credit Card Payment,765.37,credit,Credit Card Payment,95028-6611199
+02/26/2018,Credit Card Payment,156.11,credit,Credit Card Payment,95028-1307804
+02/26/2018,Credit Card Payment,765.37,debit,Credit Card Payment,95028-5949457
+02/26/2018,Internet Service Provider,74.99,debit,Internet,95028-5949457
+02/26/2018,American Tavern,85.52,debit,Restaurants,95028-1307804
+02/26/2018,Gas Station,32.21,debit,Gas & Fuel,95028-1307804
+02/26/2018,Credit Card Payment,765.37,credit,Credit Card Payment,95028-6611199
+02/26/2018,Credit Card Payment,156.11,credit,Credit Card Payment,95028-1307804
+02/26/2018,Credit Card Payment,765.37,debit,Credit Card Payment,95028-5949457
+02/26/2018,Internet Service Provider,74.99,debit,Internet,95028-5949457
+02/26/2018,American Tavern,85.52,debit,Restaurants,95028-1307804
+02/26/2018,Gas Station,32.21,debit,Gas & Fuel,95028-1307804
+02/27/2018,Credit Card Payment,156.11,debit,Credit Card Payment,95028-5949457

@@ -1,0 +1,73 @@
+﻿Date,Description,Amount,Transaction Type,Category,Account Number
+05/01/2019,Amazon,13.09,debit,Shopping,95028-6611199
+05/02/2019,Mortgage Payment,1100,debit,Mortgage & Rent,95028-5949457
+05/04/2019,Netflix,13.9,debit,Television,95028-6611199
+05/06/2019,Amazon,16.94,debit,Shopping,95028-6611199
+05/07/2019,Amazon,38.56,debit,Shopping,95028-6611199
+05/09/2019,Best Buy,331.69,debit,Electronics & Software,95028-6611199
+05/09/2019,Spotify,10.69,debit,Music,95028-6611199
+05/09/2019,Target,3.2,debit,Shopping,95028-6611199
+05/09/2019,Gas Company,30,debit,Utilities,95028-5949457
+05/09/2019,Best Buy,331.69,debit,Electronics & Software,95028-6611199
+05/09/2019,Spotify,10.69,debit,Music,95028-6611199
+05/09/2019,Target,3.2,debit,Shopping,95028-6611199
+05/09/2019,Gas Company,30,debit,Utilities,95028-5949457
+05/09/2019,Best Buy,331.69,debit,Electronics & Software,95028-6611199
+05/09/2019,Spotify,10.69,debit,Music,95028-6611199
+05/09/2019,Target,3.2,debit,Shopping,95028-6611199
+05/09/2019,Gas Company,30,debit,Utilities,95028-5949457
+05/09/2019,Best Buy,331.69,debit,Electronics & Software,95028-6611199
+05/09/2019,Spotify,10.69,debit,Music,95028-6611199
+05/09/2019,Target,3.2,debit,Shopping,95028-6611199
+05/09/2019,Gas Company,30,debit,Utilities,95028-5949457
+05/10/2019,Best Buy,21.39,debit,Electronics & Software,95028-1307804
+05/10/2019,Phone Company,65,debit,Mobile Phone,95028-5949457
+05/10/2019,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+05/10/2019,Best Buy,21.39,debit,Electronics & Software,95028-1307804
+05/10/2019,Phone Company,65,debit,Mobile Phone,95028-5949457
+05/10/2019,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+05/10/2019,Best Buy,21.39,debit,Electronics & Software,95028-1307804
+05/10/2019,Phone Company,65,debit,Mobile Phone,95028-5949457
+05/10/2019,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+05/13/2019,QuikTrip,35.24,debit,Gas & Fuel,95028-1307804
+05/13/2019,Fancy Restaurant,98.19,debit,Restaurants,95028-1307804
+05/13/2019,Greek Restaurant,23.11,debit,Restaurants,95028-1307804
+05/13/2019,QuikTrip,35.24,debit,Gas & Fuel,95028-1307804
+05/13/2019,Fancy Restaurant,98.19,debit,Restaurants,95028-1307804
+05/13/2019,Greek Restaurant,23.11,debit,Restaurants,95028-1307804
+05/13/2019,QuikTrip,35.24,debit,Gas & Fuel,95028-1307804
+05/13/2019,Fancy Restaurant,98.19,debit,Restaurants,95028-1307804
+05/13/2019,Greek Restaurant,23.11,debit,Restaurants,95028-1307804
+05/14/2019,Grocery Store,2.02,debit,Groceries,95028-1307804
+05/15/2019,Power Company,60,debit,Utilities,95028-5949457
+05/17/2019,City Water Charges,35,debit,Utilities,95028-5949457
+05/20/2019,State Farm,75,debit,Auto Insurance,95028-5949457
+05/20/2019,American Tavern,32.53,debit,Restaurants,95028-1307804
+05/20/2019,State Farm,75,debit,Auto Insurance,95028-5949457
+05/20/2019,American Tavern,32.53,debit,Restaurants,95028-1307804
+05/24/2019,Credit Card Payment,765.68,credit,Credit Card Payment,95028-1307804
+05/24/2019,Hardware Store,27.96,debit,Home Improvement,95028-6611199
+05/24/2019,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+05/24/2019,Brunch Restaurant,8,debit,Restaurants,95028-6611199
+05/24/2019,Credit Card Payment,765.68,credit,Credit Card Payment,95028-1307804
+05/24/2019,Hardware Store,27.96,debit,Home Improvement,95028-6611199
+05/24/2019,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+05/24/2019,Brunch Restaurant,8,debit,Restaurants,95028-6611199
+05/24/2019,Credit Card Payment,765.68,credit,Credit Card Payment,95028-1307804
+05/24/2019,Hardware Store,27.96,debit,Home Improvement,95028-6611199
+05/24/2019,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+05/24/2019,Brunch Restaurant,8,debit,Restaurants,95028-6611199
+05/24/2019,Credit Card Payment,765.68,credit,Credit Card Payment,95028-1307804
+05/24/2019,Hardware Store,27.96,debit,Home Improvement,95028-6611199
+05/24/2019,Biweekly Paycheck,2000,credit,Paycheck,95028-5949457
+05/24/2019,Brunch Restaurant,8,debit,Restaurants,95028-6611199
+05/25/2019,QuikTrip,36.76,debit,Gas & Fuel,95028-6611199
+05/25/2019,Hardware Store,30.99,debit,Home Improvement,95028-6611199
+05/25/2019,QuikTrip,36.76,debit,Gas & Fuel,95028-6611199
+05/25/2019,Hardware Store,30.99,debit,Home Improvement,95028-6611199
+05/27/2019,Mexican Restaurant,34.33,debit,Restaurants,95028-6611199
+05/28/2019,Credit Card Payment,765.68,debit,Credit Card Payment,95028-5949457
+05/30/2019,Internet Service Provider,75,debit,Internet,95028-5949457
+05/30/2019,American Tavern,34.82,debit,Restaurants,95028-6611199
+05/30/2019,Internet Service Provider,75,debit,Internet,95028-5949457
+05/30/2019,American Tavern,34.82,debit,Restaurants,95028-6611199

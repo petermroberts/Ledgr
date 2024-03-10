@@ -1,0 +1,35 @@
+Date, Description, Withdrawals, Deposits, Balance
+2023-01-01, Opening Balance, , , 2171.87
+2023-01-03, Rent, 650.00, , 1521.87
+2023-01-06, Payroll Deposit Mel's Enterpris, , 142.28, 1664.15
+2023-01-13, Payroll Deposit WAYFARERS' ALE, , 173.34, 1837.49
+2023-01-19, e-Transfer sent, 210.00, , 1627.49
+2023-01-20, Payroll Deposit Mel's Enterpris, ,91.61, 1719.10
+2023-01-23, e-Transfer sent, 20.00, , 1699.10
+2023-01-23, e-Transfer sent, 68.94, , 1630.16
+2023-01-27, Payroll Deposit WAYFARERS' ALE, , 219.01, 1849.17
+2023-01-27, Closing Balance, , , 1849.17
+2023-02-01, Opening Balance, , , 1849.17
+2023-02-01, Rent, 650.00, , 1199.17
+2023-02-03, Payroll Deposit Mel's Enterpris, ,84.28, 1283.45
+2023-02-10, Payroll Deposit WAYFARERS' ALE,, 359.44, 1642.89
+2023-02-14, e-Transfer received,, 69.69, 1712.58
+2023-02-14, e-Transfer received,, 2000.00, 3712.58
+2023-02-14, e-Transfer sent, 65.00,, 3647.58
+2023-02-14, Online Banking transfer - 1269, 1643.44,, 2004.14
+2023-02-16, Phone Bill, 180.08,, 1824.06
+2023-02-17, Payroll Deposit Mel's Enterpris,, 156.05, 1980.11
+2023-02-22, e-Transfer received,, 75.00, 2055.11
+2023-02-24, Payroll Deposit WAYFARERS' ALE,, 328.76, 2383.87
+2023-02-24, Closing Balance,,, 2383.87
+2023-03-01, Opening Balance,,, 2383.87
+2023-03-01, Rent, 650.00,, 1733.87
+2023-03-03, Payroll Deposit Mel's Enterpris,, 98.94, 1832.81
+2023-03-10, Payroll Deposit WAYFARERS' ALE,, 383.16, 2215.97
+2023-03-17, Payroll Deposit Mel's Enterpris,, 135.39, 2351.36
+2023-03-23, Rent Deposit, 290.00,, 2061.36
+2023-03-24, Payroll Deposit WAYFARERS' ALE,, 350.10, 2411.46
+2023-03-27, Phone Bill, 58.26,, 2353.20
+2023-03-28, Online Banking transfer - 1317, 458.39,, 1894.81
+2023-03-31, Payroll Deposit Mel's Enterpris,, 65.96, 1960.77
+2023-03-31, Closing Balance,,, 1960.77
