@@ -1,0 +1,77 @@
+,Date,Head Category,Category,Amount,Account,Account Balance
+0,2023-01-01,Food & Drinks,Drinks,-61.87,2,-1192.01
+1,2023-01-01,Food & Drinks,Take-out,-59.83,2,-1251.84
+2,2023-01-01,Food & Drinks,Restaurant,-19.68,2,-1271.52
+3,2023-01-01,Lifestyle,Pharmacy,-17.24,2,-1288.76
+4,2023-01-02,Food & Drinks,Candy,-17.25,2,-1306.01
+5,2023-01-02,Food & Drinks,Coffee,-6.22,2,-1312.23
+7,2023-01-03,Lifestyle,Pharmacy,-23.44,2,-1335.67
+8,2023-01-03,Entertainment,Sports,-33.01,2,-1368.68
+9,2023-01-03,Lifestyle,Shopping,-77,2,-1445.68
+10,2023-01-04,Food & Drinks,Dine-out,-23.75,2,-1469.43
+11,2023-01-04,Lifestyle,Pharmacy,-30.8,2,-1500.23
+12,2023-01-04,Food & Drinks,Drinks,-17.97,2,-1518.2
+13,2023-01-05,Food & Drinks,Take-out,-27.99,2,-1546.19
+15,2023-01-06,Food & Drinks,Dine-out,-28.36,2,-1574.55
+16,2023-01-06,Lifestyle,Pharmacy,-15.86,2,-1590.41
+17,2023-01-07,Food & Drinks,Dine-out,-29.08,2,-1619.49
+18,2023-01-08,Food & Drinks,Coffee,-7.46,2,-1626.95
+19,2023-01-08,Food & Drinks,Candy,-3.77,2,-1630.72
+20,2023-01-09,Food & Drinks,Coffee,-5.51,2,-1636.23
+21,2023-01-10,Food & Drinks,Dine-out,-23.75,2,-1659.98
+22,2023-01-10,Food & Drinks,Coffee,-2.4,2,-1662.38
+23,2023-01-11,Food & Drinks,Restaurant,-8.86,2,-1671.24
+24,2023-01-12,Housing,Bank,-22.62,2,-1693.86
+25,2023-01-12,Food & Drinks,Drinks,-17.97,2,-1711.83
+26,2023-01-12,Food & Drinks,Coffee,-5.51,2,-1717.34
+27,2023-01-12,Food & Drinks,Restaurant,-6.9,2,-1724.24
+29,2023-01-13,Food & Drinks,Dine-out,-23.77,2,-1748.01
+30,2023-01-13,Food & Drinks,Restaurant,-3.45,2,-1751.46
+31,2023-01-13,Food & Drinks,Restaurant,-52.42,2,-1803.88
+32,2023-01-14,Food & Drinks,Dine-out,-30.17,2,-1834.05
+33,2023-01-14,Food & Drinks,Candy,-3.08,2,-1837.13
+34,2023-01-15,Food & Drinks,Dine-out,-25.08,2,-1862.21
+35,2023-01-16,Food & Drinks,Drinks,-17.97,2,-1880.18
+36,2023-01-16,Food & Drinks,Dine-out,-54.95,2,-1935.13
+37,2023-01-16,Lifestyle,Pharmacy,-17.3,2,-1952.43
+38,2023-01-16,Lifestyle,Education,-7.46,2,-1959.89
+39,2023-01-17,Food & Drinks,Candy,-20.5,2,-1980.39
+40,2023-01-17,Food & Drinks,Coffee,-8,2,-1988.39
+41,2023-01-18,Food & Drinks,Dine-out,-30.29,2,-2018.68
+43,2023-01-18,Housing,Bank,2018.68,2,0
+44,2023-01-19,Food & Drinks,Groceries,-79.34,2,-79.34
+45,2023-01-19,Transportation,Gas,-30,2,-109.34
+48,2023-01-20,Food & Drinks,Coffee,-2.5,2,-111.84
+49,2023-01-21,Food & Drinks,Candy,-5.26,2,-117.1
+50,2023-01-21,Food & Drinks,Drinks,-10.57,2,-127.67
+51,2023-01-21,Food & Drinks,Candy,-3.42,2,-131.09
+52,2023-01-22,Food & Drinks,Restaurant,-5.75,2,-136.84
+53,2023-01-22,Food & Drinks,Dine-out,-19.41,2,-156.25
+54,2023-01-22,Food & Drinks,Candy,-3.77,2,-160.02
+55,2023-01-22,Food & Drinks,Candy,-1.48,2,-161.5
+56,2023-01-22,Food & Drinks,Candy,-1.89,2,-163.39
+57,2023-01-23,Food & Drinks,Coffee,-6.89,2,-170.28
+60,2023-01-24,Food & Drinks,Drinks,-6.31,2,-176.59
+61,2023-01-24,Food & Drinks,Coffee,-3.42,2,-180.01
+62,2023-01-25,Food & Drinks,Dine-out,-30.27,2,-210.28
+63,2023-01-25,Food & Drinks,Coffee,-4.9,2,-215.18
+64,2023-01-26,Food & Drinks,Coffee,-8.58,2,-223.76
+65,2023-01-26,Food & Drinks,Coffee,-5.46,2,-229.22
+67,2023-01-27,Food & Drinks,Restaurant,-10.35,2,-239.57
+68,2023-01-27,Food & Drinks,Coffee,-4.9,2,-244.47
+69,2023-01-27,Food & Drinks,Dine-out,-14.27,2,-258.74
+70,2023-01-28,Food & Drinks,Coffee,-4.29,2,-263.03
+71,2023-01-28,Food & Drinks,Restaurant,-13.23,2,-276.26
+72,2023-01-28,Food & Drinks,Drinks,-6.31,2,-282.57
+73,2023-01-29,Food & Drinks,Coffee,-4.13,2,-286.7
+74,2023-01-29,Lifestyle,Pharmacy,-11.92,2,-298.62
+75,2023-01-29,Food & Drinks,Dine-out,-32.11,2,-330.73
+76,2023-01-29,Food & Drinks,Dine-out,-32.11,2,-362.84
+77,2023-01-30,Entertainment,Subscription,-9.99,2,-372.83
+78,2023-01-30,Food & Drinks,Drinks,-17.97,2,-390.8
+79,2023-01-30,Food & Drinks,Coffee,-5.74,2,-396.54
+80,2023-01-30,Food & Drinks,Coffee,-4.92,2,-401.46
+81,2023-01-30,Food & Drinks,Coffee,-4.9,2,-406.36
+82,2023-01-31,Food & Drinks,Dine-out,-63.94,2,-470.3
+83,2023-01-31,Food & Drinks,Coffee,-11,2,-481.3
+84,2023-01-31,Food & Drinks,Coffee,-5.74,2,-487.04

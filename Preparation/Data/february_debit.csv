@@ -1,0 +1,12 @@
+,Date,Head Category,Category,Amount,Account,Account Balance
+0,2023-02-01,Housing,Rent,-650,1,1199.17
+11,2023-02-03,Income,Salary,84.28,1,1283.45
+35,2023-02-10,Income,Salary,359.44,1,1642.89
+55,2023-02-14,Miscellaneous,e-Transfer received,69.69,1,1712.58
+56,2023-02-14,Miscellaneous,e-Transfer received,2000,1,3712.58
+57,2023-02-14,Miscellaneous,e-Transfer sent,-65,1,3647.58
+58,2023-02-14,Housing,Bank,-1643.44,1,2004.14
+67,2023-02-16,Housing,Phone Bill,-180.08,1,1824.06
+68,2023-02-17,Income,Salary,156.05,1,1980.11
+84,2023-02-22,Miscellaneous,e-Transfer received,75,1,2055.11
+89,2023-02-24,Income,Salary,328.76,1,2383.87

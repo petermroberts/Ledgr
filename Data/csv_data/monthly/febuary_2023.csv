@@ -1,0 +1,100 @@
+Date,Head Category,Category,Note,Amount,Account
+2023-02-01,Housing,Rent,,-650.00,001
+2023-02-01,Housing,Bank,Deposit interest,4.93,003
+2023-02-01,Food & Drinks,Dine-out,,-30.38,002
+2023-02-01,Food & Drinks,Coffee,,-4.90,002
+2023-02-01,Food & Drinks,Coffee,,-4.90,002
+2023-02-01,Food & Drinks,Coffee,,-4.93,002
+2023-02-02,Food & Drinks,Coffee,,-9.88,002
+2023-02-02,Food & Drinks,Coffee,,-4.93,002
+2023-02-02,Food & Drinks,Coffee,,-4.90,002
+2023-02-02,Food & Drinks,Groceries,,-20.48,002
+2023-02-02,Lifestyle,Pharmacy,,-4.46,002
+2023-02-03,Income,Salary,Payroll Deposit Mel's Enterpris,84.28,001
+2023-02-03,Food & Drinks,Restaurant,,-6.77,002
+2023-02-03,Food & Drinks,Coffee,,-7.67,002
+2023-02-04,Food & Drinks,Candy,,-1.48,002
+2023-02-04,Food & Drinks,Candy,,-3.39,002
+2023-02-04,Food & Drinks,Candy,,-1.89,002
+2023-02-04,Food & Drinks,Dine-out,,-23.20,002
+2023-02-04,Food & Drinks,Drinks,,-26.81,002
+2023-02-04,Food & Drinks,Groceries,,-38.73,002
+2023-02-05,Food & Drinks,Restaurant,,-6.90,002
+2023-02-05,Food & Drinks,Candy,,-1.71,002
+2023-02-05,Food & Drinks,Candy,,-6.53,002
+2023-02-06,Food & Drinks,Drinks,,-17.97,002
+2023-02-06,Food & Drinks,Coffee,,-2.40,002
+2023-02-06,Food & Drinks,Coffee,,-4.93,002
+2023-02-06,Food & Drinks,Coffee,,-2.50,002
+2023-02-07,Food & Drinks,Dine-out,,-23.52,002
+2023-02-08,Lifestyle,Pharmacy,,-6.08,002
+2023-02-08,Food & Drinks,Dine-out,,-25.06,002
+2023-02-08,Food & Drinks,Dine-out,,-34.93,002
+2023-02-08,Food & Drinks,Drinks,,-57.41,002
+2023-02-08,Food & Drinks,Coffee,,-2.40,002
+2023-02-08,Food & Drinks,Coffee,,-9.38,002
+2023-02-09,Food & Drinks,Dine-out,,-30.38,002
+2023-02-10,Income,Salary,Payroll Deposit WAYFARERS' ALE,359.44,001
+2023-02-10,Food & Drinks,Dine-out,,-31.23,002
+2023-02-10,Food & Drinks,Restaurant,,-4.89,002
+2023-02-10,Food & Drinks,Dine-out,,-23.52,002
+2023-02-10,Food & Drinks,Dine-out,,-14.70,002
+2023-02-10,Food & Drinks,Coffee,,-2.40,002
+2023-02-11,Lifestyle,Charity,,-50.00,002
+2023-02-11,Food & Drinks,Coffee,,-1.04,002
+2023-02-11,Food & Drinks,Restaurant,,-7.76,002
+2023-02-11,Food & Drinks,Candy,,-6.53,002
+2023-02-12,Food & Drinks,Dine-out,,-30.38,002
+2023-02-13,Housing,Bank,PURCHASE INTEREST 19.99%,-1.63,002
+2023-02-13,Food & Drinks,Coffee,,-4.90,002
+2023-02-13,Food & Drinks,Coffee,,-14.80,002
+2023-02-13,Lifestyle,Pet,WOLFVILLE ANIMAL HOSPI WOLFVILLE NS,-68.31,002
+2023-02-13,Food & Drinks,Groceries,,-11.83,002
+2023-02-13,Lifestyle,Pharmacy,,-4.49,002
+2023-02-14,Food & Drinks,Dine-out,,-32.48,002
+2023-02-14,Food & Drinks,Dine-out,,-23.56,002
+2023-02-14,Food & Drinks,Coffee,,-10.66,002
+2023-02-14,Miscellaneous,e-Transfer received,,69.69,001
+2023-02-14,Miscellaneous,e-Transfer received,,2000.00,001
+2023-02-14,Miscellaneous,e-Transfer sent,,-65.00,001
+2023-02-14,Housing,Bank,Online Banking transfer - 1269, 1643.44,001
+2023-02-14,Housing,Bank,PAYMENT - THANK YOU / PAIEMENT - MERCI,1643.44,002
+2023-02-15,Food & Drinks,Dine-out,,-39.32,002
+2023-02-15,Food & Drinks,Coffee,,-4.90,002
+2023-02-15,Food & Drinks,Coffee,,-4.93,002
+2023-02-15,Food & Drinks,Coffee,,-4.00,002
+2023-02-15,Transportation,Gas,,-51.94,002
+2023-02-16,Food & Drinks,Restaurant,,-8.21,002
+2023-02-16,Food & Drinks,Candy,,-3.85,002
+2023-02-16,Housing,Phone Bill,,180.08,001
+2023-02-17,Income,Salary,Payroll Deposit Mel's Enterpris,156.05,001
+2023-02-17,Food & Drinks,Dine-out,,-30.38,002
+2023-02-17,Food & Drinks,Restaurant,,-34.62,002
+2023-02-17,Food & Drinks,Coffee,,-4.93,002
+2023-02-17,Food & Drinks,Coffee,,-2.50,002
+2023-02-17,Entertainment,Concert,,-171.50,002
+2023-02-18,Food & Drinks,Restaurant,,-27.08,002
+2023-02-18,Food & Drinks,Candy,,-1.48,002
+2023-02-18,Food & Drinks,Drinks,,-19.98,002
+2023-02-18,Food & Drinks,Drinks,,-44.99,002
+2023-02-19,Food & Drinks,Dine-out,,-33.56,002
+2023-02-19,Food & Drinks,Candy,,-8.01,002
+2023-02-20,Food & Drinks,Candy,,-13.85,002
+2023-02-20,Food & Drinks,Dine-out,,-24.52,002
+2023-02-20,Food & Drinks,Candy,,-14.42,002
+2023-02-21,Food & Drinks,Dine-out,,-30.38,002
+2023-02-22,Miscellaneous,e-Transfer received,,75.00,001
+2023-02-22,Food & Drinks,Coffee,,-3.78,002
+2023-02-22,Food & Drinks,Candy,,-1.48,002
+2023-02-23,Food & Drinks,Groceries,,-11.95,002
+2023-02-23,Food & Drinks,Restaurant,,-11.66,002
+2023-02-24,Income,Salary,Payroll Deposit WAYFARERS' ALE,328.76,001
+2023-02-24,Food & Drinks,Restaurant,,-1.44,002
+2023-02-25,Food & Drinks,Restaurant,,-33.31,002
+2023-02-26,Lifestyle,Pharmacy,,-24.90,002
+2023-02-26,Food & Drinks,Restaurant,,-7.19,002
+2023-02-27,Food & Drinks,Dine-out,,-30.38,002
+2023-02-27,Food & Drinks,Dine-out,,-34.93,002
+2023-02-27,Food & Drinks,Dine-out,,-24.06,002
+2023-02-27,Food & Drinks,Coffee,,-4.93,002
+2023-02-28,Entertainment,Subscription,,-9.99,002

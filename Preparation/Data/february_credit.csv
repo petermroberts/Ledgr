@@ -1,0 +1,88 @@
+,Date,Head Category,Category,Amount,Account,Account Balance
+2,2023-02-01,Food & Drinks,Dine-out,-30.38,2,-517.42
+3,2023-02-01,Food & Drinks,Coffee,-4.9,2,-522.32
+4,2023-02-01,Food & Drinks,Coffee,-4.9,2,-527.22
+5,2023-02-01,Food & Drinks,Coffee,-4.93,2,-532.15
+6,2023-02-02,Food & Drinks,Coffee,-9.88,2,-542.03
+7,2023-02-02,Food & Drinks,Coffee,-4.93,2,-546.96
+8,2023-02-02,Food & Drinks,Coffee,-4.9,2,-551.86
+9,2023-02-02,Food & Drinks,Groceries,-20.48,2,-572.34
+10,2023-02-02,Lifestyle,Pharmacy,-4.46,2,-576.8
+12,2023-02-03,Food & Drinks,Restaurant,-6.77,2,-583.57
+13,2023-02-03,Food & Drinks,Coffee,-7.67,2,-591.24
+14,2023-02-04,Food & Drinks,Candy,-1.48,2,-592.72
+15,2023-02-04,Food & Drinks,Candy,-3.39,2,-596.11
+16,2023-02-04,Food & Drinks,Candy,-1.89,2,-598
+17,2023-02-04,Food & Drinks,Dine-out,-23.2,2,-621.2
+18,2023-02-04,Food & Drinks,Drinks,-26.81,2,-648.01
+19,2023-02-04,Food & Drinks,Groceries,-38.73,2,-686.74
+20,2023-02-05,Food & Drinks,Restaurant,-6.9,2,-693.64
+21,2023-02-05,Food & Drinks,Candy,-1.71,2,-695.35
+22,2023-02-05,Food & Drinks,Candy,-6.53,2,-701.88
+23,2023-02-06,Food & Drinks,Drinks,-17.97,2,-719.85
+24,2023-02-06,Food & Drinks,Coffee,-2.4,2,-722.25
+25,2023-02-06,Food & Drinks,Coffee,-4.93,2,-727.18
+26,2023-02-06,Food & Drinks,Coffee,-2.5,2,-729.68
+27,2023-02-07,Food & Drinks,Dine-out,-23.52,2,-753.2
+28,2023-02-08,Lifestyle,Pharmacy,-6.08,2,-759.28
+29,2023-02-08,Food & Drinks,Dine-out,-25.06,2,-784.34
+30,2023-02-08,Food & Drinks,Dine-out,-34.93,2,-819.27
+31,2023-02-08,Food & Drinks,Drinks,-57.41,2,-876.68
+32,2023-02-08,Food & Drinks,Coffee,-2.4,2,-879.08
+33,2023-02-08,Food & Drinks,Coffee,-9.38,2,-888.46
+34,2023-02-09,Food & Drinks,Dine-out,-30.38,2,-918.84
+36,2023-02-10,Food & Drinks,Dine-out,-31.23,2,-950.07
+37,2023-02-10,Food & Drinks,Restaurant,-4.89,2,-954.96
+38,2023-02-10,Food & Drinks,Dine-out,-23.52,2,-978.48
+39,2023-02-10,Food & Drinks,Dine-out,-14.7,2,-993.18
+40,2023-02-10,Food & Drinks,Coffee,-2.4,2,-995.58
+41,2023-02-11,Lifestyle,Charity,-50,2,-1045.58
+42,2023-02-11,Food & Drinks,Coffee,-1.04,2,-1046.62
+43,2023-02-11,Food & Drinks,Restaurant,-7.76,2,-1054.38
+44,2023-02-11,Food & Drinks,Candy,-6.53,2,-1060.91
+45,2023-02-12,Food & Drinks,Dine-out,-30.38,2,-1091.29
+46,2023-02-13,Housing,Bank,-1.63,2,-1092.92
+47,2023-02-13,Food & Drinks,Coffee,-4.9,2,-1097.82
+48,2023-02-13,Food & Drinks,Coffee,-14.8,2,-1112.62
+49,2023-02-13,Lifestyle,Pet,-68.31,2,-1180.93
+50,2023-02-13,Food & Drinks,Groceries,-11.83,2,-1192.76
+51,2023-02-13,Lifestyle,Pharmacy,-4.49,2,-1197.25
+52,2023-02-14,Food & Drinks,Dine-out,-32.48,2,-1229.73
+53,2023-02-14,Food & Drinks,Dine-out,-23.56,2,-1253.29
+54,2023-02-14,Food & Drinks,Coffee,-10.66,2,-1263.95
+59,2023-02-14,Housing,Bank,1263.95,2,0
+60,2023-02-15,Food & Drinks,Dine-out,-39.32,2,-39.32
+61,2023-02-15,Food & Drinks,Coffee,-4.9,2,-44.22
+62,2023-02-15,Food & Drinks,Coffee,-4.93,2,-49.15
+63,2023-02-15,Food & Drinks,Coffee,-4,2,-53.15
+64,2023-02-15,Transportation,Gas,-51.94,2,-105.09
+65,2023-02-16,Food & Drinks,Restaurant,-8.21,2,-113.3
+66,2023-02-16,Food & Drinks,Candy,-3.85,2,-117.15
+69,2023-02-17,Food & Drinks,Dine-out,-30.38,2,-147.53
+70,2023-02-17,Food & Drinks,Restaurant,-34.62,2,-182.15
+71,2023-02-17,Food & Drinks,Coffee,-4.93,2,-187.08
+72,2023-02-17,Food & Drinks,Coffee,-2.5,2,-189.58
+73,2023-02-17,Entertainment,Concert,-171.5,2,-361.08
+74,2023-02-18,Food & Drinks,Restaurant,-27.08,2,-388.16
+75,2023-02-18,Food & Drinks,Candy,-1.48,2,-389.64
+76,2023-02-18,Food & Drinks,Drinks,-19.98,2,-409.62
+77,2023-02-18,Food & Drinks,Drinks,-44.99,2,-454.61
+78,2023-02-19,Food & Drinks,Dine-out,-33.56,2,-488.17
+79,2023-02-19,Food & Drinks,Candy,-8.01,2,-496.18
+80,2023-02-20,Food & Drinks,Candy,-13.85,2,-510.03
+81,2023-02-20,Food & Drinks,Dine-out,-24.52,2,-534.55
+82,2023-02-20,Food & Drinks,Candy,-14.42,2,-548.97
+83,2023-02-21,Food & Drinks,Dine-out,-30.38,2,-579.35
+85,2023-02-22,Food & Drinks,Coffee,-3.78,2,-583.13
+86,2023-02-22,Food & Drinks,Candy,-1.48,2,-584.61
+87,2023-02-23,Food & Drinks,Groceries,-11.95,2,-596.56
+88,2023-02-23,Food & Drinks,Restaurant,-11.66,2,-608.22
+90,2023-02-24,Food & Drinks,Restaurant,-1.44,2,-609.66
+91,2023-02-25,Food & Drinks,Restaurant,-33.31,2,-642.97
+92,2023-02-26,Lifestyle,Pharmacy,-24.9,2,-667.87
+93,2023-02-26,Food & Drinks,Restaurant,-7.19,2,-675.06
+94,2023-02-27,Food & Drinks,Dine-out,-30.38,2,-705.44
+95,2023-02-27,Food & Drinks,Dine-out,-34.93,2,-740.37
+96,2023-02-27,Food & Drinks,Dine-out,-24.06,2,-764.43
+97,2023-02-27,Food & Drinks,Coffee,-4.93,2,-769.36
+98,2023-02-28,Entertainment,Subscription,-9.99,2,-779.35
