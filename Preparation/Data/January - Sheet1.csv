@@ -1,0 +1,25 @@
+Date,Category,Sub-category,Amount,Account,Balance
+2023-01-01,Food & Drinks,Drinks,-200,credit,-200
+2023-01-01,Food & Drinks,Take-out,-40.45,credit,-240.45
+2023-01-02,Housing,Rent,-650,chequing,9350
+2023-01-02,Food & Drinks,Coffee,-5.74,chequing,9344.26
+2023-01-02,Utilities,Phone,-58.04,chequing,9286.22
+2023-01-03,Personal,Haircut,-30,chequing,9256.22
+2023-01-05,Entertainment,Games,-51.74,credit,-292.19
+2023-01-06,Income,Salary,1300,chequing,10556.22
+2023-01-07,Food & Drinks,Groceries,-80.46,chequing,10475.76
+2023-01-10,Food & Drinks,Restaurant,-50.28,credit,-342.47
+2023-01-12,Transportation,Gas,-35,credit,-377.47
+2023-01-14,Food & Drinks,Restaurant,-90.68,credit,-468.15
+2023-01-14,Food & Drinks,Coffee,-5.74,chequing,10470.02
+2023-01-16,Entertainment,Games,-103.49,credit,-571.64
+2023-01-20,Income,Salary,1300,chequing,11770.02
+2023-01-20,Transportation,Insurance,-123.1,chequing,11646.92
+2023-01-21,Food & Drinks,Groceries,-60.87,chequing,11586.05
+2023-01-21,Entertainment,Subscription,-7.99,chequing,11578.06
+2023-01-21,Food & Drinks,Coffee,-5.74,chequing,11572.32
+2023-01-28,Food & Drinks,Restaurant,-74.3,credit,-645.94
+2023-01-28,Food & Drinks,Coffee,-6.95,chequing,11565.37
+2023-01-30,Debt,Credit Card,-362.32,chequing,11203.05
+2023-01-30,Debt,Credit Card,362.32,credit,-283.62
+2023-01-31,Debt,Interest,-4.81,credit,-288.43

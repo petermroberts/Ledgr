@@ -1,0 +1,320 @@
+Date,Category,Sub-category,Amount,Account,Balance,Weekend
+2023-01-01,Food & Drinks,Drinks,-200.00,Credit,-200,1
+2023-01-01,Food & Drinks,Take-out,-40.45,Credit,-240.45,1
+2023-01-02,Housing,Rent,-650.00,Cash Hub,"2,850.00",0
+2023-01-02,Food & Drinks,Coffee,-5.74,Cash Hub,"2,844.26",0
+2023-01-02,Utilities,Phone,-58.04,Cash Hub,"2,786.22",0
+2023-01-03,Personal Care,Haircut,-30.00,Cash Hub,"2,756.22",0
+2023-01-05,Entertainment,Games,-51.74,Credit,-292.19,0
+2023-01-06,Income,Salary,509.08,Cash Hub,"3,265.30",0
+2023-01-07,Food & Drinks,Groceries,-80.46,Cash Hub,"3,184.84",1
+2023-01-10,Food & Drinks,Restaurant,-50.28,Credit,-342.47,0
+2023-01-12,Transportation,Gas,-35.00,Credit,-377.47,0
+2023-01-14,Food & Drinks,Restaurant,-90.68,Credit,-468.15,1
+2023-01-14,Food & Drinks,Coffee,-5.74,Cash Hub,"3,179.10",1
+2023-01-16,Entertainment,Games,-103.49,Credit,-571.64,0
+2023-01-20,Income,Salary,708.96,Cash Hub,"3,888.06",0
+2023-01-20,Transportation,Insurance,-123.10,Cash Hub,"3,764.96",0
+2023-01-21,Food & Drinks,Groceries,-60.87,Cash Hub,"3,704.09",1
+2023-01-21,Entertainment,Subscription,-7.99,Cash Hub,"3,696.10",1
+2023-01-21,Food & Drinks,Coffee,-5.74,Cash Hub,"3,690.36",1
+2023-01-28,Food & Drinks,Restaurant,-74.30,Credit,-645.94,1
+2023-01-28,Food & Drinks,Coffee,-6.95,Cash Hub,"3,683.41",1
+2023-01-30,Debt,Payment,-362.32,Cash Hub,"3,321.09",0
+2023-01-30,Debt,Payment,362.32,Credit,-283.62,0
+2023-01-31,Debt,Interest,-4.81,Credit,-288.43,0
+2023-02-01,Housing,Rent,-650.00,Cash Hub,"2,671.09",0
+2023-02-01,Utilities,Phone,-58.04,Cash Hub,"2,613.05",0
+2023-02-03,Income,Salary,640.82,Cash Hub,"3,253.87",0
+2023-02-04,Food & Drinks,Restaurant,-55.39,Credit,-343.82,1
+2023-02-04,Food & Drinks,Groceries,-24.12,Cash Hub,"3,229.75",1
+2023-02-07,Personal,Haircut,-30.00,Cash Hub,"3,199.75",0
+2023-02-14,Food & Drinks,Restaurant,-55.39,Credit,-399.21,0
+2023-02-17,Income,Salary,334.84,Cash Hub,"3,534.59",0
+2023-02-17,Debt,Payment,-349.21,Cash Hub,"3,185.38",0
+2023-02-17,Debt,Payment,349.21,Credit,-50.00,0
+2023-02-18,Food & Drinks,Groceries,-90.77,Cash Hub,"3,094.61",1
+2023-02-19,Entertainment,Games,-67.26,Credit,-117.26,1
+2023-02-20,Transportation,Insurance,-123.10,Cash Hub,"2,971.51",0
+2023-02-21,Entertainment,Subscription,-7.99,Cash Hub,"2,963.52",0
+2023-02-24,Entertainment,Games,-77.04,Credit,-194.30,0
+2023-02-25,Food & Drinks,Restaurant,-42.33,Credit,-236.63,1
+2023-02-28,Debt,Interest,-5.05,Credit,-241.68,0
+2023-03-01,Housing,Rent,-650.00,Cash Hub,"2,313.52",0
+2023-03-01,Utilities,Phone,-58.04,Cash Hub,"2,255.48",0
+2023-03-03,Income,Salary,340.94,Cash Hub,"2,596.42",0
+2023-03-04,Food & Drinks,Groceries,-64.55,Cash Hub,"2,531.87",1
+2023-03-04,Food & Drinks,Coffee,-5.74,Cash Hub,"2,526.13",1
+2023-03-07,Personal,Haircut,-30.00,Cash Hub,"2,496.13",0
+2023-03-11,Food & Drinks,Drinks,-52.75,Credit,-294.43,1
+2023-03-17,Income,Salary,262.44,Cash Hub,"2,758.57",0
+2023-03-17,Debt,Payment,-280.00,Cash Hub,"2,478.57",0
+2023-03-17,Debt,Payment,280.00,Credit,-14.43,0
+2023-03-18,Food & Drinks,Groceries,-48.95,Cash Hub,"2,429.62",1
+2023-03-19,Food & Drinks,Coffee,-5.74,Cash Hub,"2,423.88",1
+2023-03-20,Transportation,Insurance,-123.10,Cash Hub,"2,300.78",0
+2023-03-20,Food & Drinks,Coffee,-5.74,Cash Hub,"2,295.04",0
+2023-03-21,Entertainment,Subscription,-7.99,Cash Hub,"2,287.05",0
+2023-03-21,Food & Drinks,Coffee,-5.74,Cash Hub,"2,281.31",0
+2023-03-22,Food & Drinks,Coffee,-5.74,Cash Hub,"2,275.57",0
+2023-03-23,Food & Drinks,Coffee,-5.74,Cash Hub,"2,269.83",0
+2023-03-24,Food & Drinks,Coffee,-5.74,Cash Hub,"2,264.09",0
+2023-03-25,Food & Drinks,Restaurant,-85.66,Credit,-100.09,1
+2023-03-27,Food & Drinks,Coffee,-5.74,Cash Hub,"2,258.35",0
+2023-03-28,Food & Drinks,Coffee,-5.74,Cash Hub,"2,252.61",0
+2023-03-29,Food & Drinks,Coffee,-5.74,Cash Hub,"2,246.87",0
+2023-03-30,Food & Drinks,Coffee,-5.74,Cash Hub,"2,241.13",0
+2023-03-31,Income,Salary,290.34,Cash Hub,"2,531.47",0
+2023-03-31,Debt,Interest,-2.35,Credit,-102.44,0
+2023-03-31,Food & Drinks,Coffee,-5.74,Cash Hub,"2,525.73",0
+2023-04-01,Food & Drinks,Groceries,-60.56,Cash Hub,"2,465.17",1
+2023-04-02,Food & Drinks,Coffee,-5.74,Cash Hub,"2,459.43",1
+2023-04-03,Housing,Rent,-650.00,Cash Hub,"1,809.43",0
+2023-04-03,Utilities,Phone,-58.04,Cash Hub,"1,751.39",0
+2023-04-03,Personal,Haircut,-30.00,Cash Hub,"1,721.39",0
+2023-04-04,Food & Drinks,Coffee,-5.74,Cash Hub,"1,715.65",0
+2023-04-05,Food & Drinks,Coffee,-5.74,Cash Hub,"1,709.91",0
+2023-04-06,Transportation,Gas,-40.00,Cash Hub,"1,669.91",0
+2023-04-06,Housing,Security Deposit,-393.75,Cash Hub,"1,276.16",0
+2023-04-06,Lifestyle,Gifts,-60.00,Credit,-162.44,0
+2023-04-06,Food & Drinks,Candy,-25.99,Credit,-188.43,0
+2023-04-06,Food & Drinks,Coffee,-5.74,Cash Hub,"1,270.42",0
+2023-04-08,Food & Drinks,Coffee,-5.74,Cash Hub,"1,264.68",1
+2023-04-08,Entertainment,Movies,-31.78,Credit,-220.21,1
+2023-04-11,Food & Drinks,Coffee,-5.74,Cash Hub,"1,258.94",0
+2023-04-11,Food & Drinks,Candy,-8.69,Credit,-228.90,0
+2023-04-11,Bank,Deposit,10000,Long Term,10000,0
+2023-04-14,Income,Salary,505.70,Cash Hub,"1,764.64",0
+2023-04-15,Food & Drinks,Groceries,-80.77,Cash Hub,"1,683.87",1
+2023-04-16,Food & Drinks,Coffee,-5.74,Cash Hub,"1,678.13",1
+2023-04-17,Food & Drinks,Coffee,-5.74,Cash Hub,"1,672.39",0
+2023-04-18,Food & Drinks,Coffee,-5.74,Cash Hub,"1,666.65",0
+2023-04-18,Transportation,Maintenance,-90.33,Cash Hub,"1,576.32",0
+2023-04-20,Transportation,Insurance,-123.10,Cash Hub,"1,453.22",0
+2023-04-21,Entertainment,Subscription,-7.99,Cash Hub,"1,445.23",0
+2023-04-22,Entertainment,Subscription,-123.99,Cash Hub,"1,321.24",1
+2023-04-22,Entertainment,Games,-103.49,Credit,-332.39,1
+2023-04-24,Debt,Payment,-122.29,Cash Hub,"1,198.95",0
+2023-04-24,Debt,Payment,122.29,Credit,-210.10,0
+2023-04-28,Income,Salary,934.54,Cash Hub,"2,133.49",0
+2023-04-29,Food & Drinks,Groceries,-75.21,Cash Hub,"2,058.28",1
+2023-04-29,Food & Drinks,Coffee,-5.74,Cash Hub,"2,052.54",1
+2023-04-30,Debt,Interest,-3.78,Credit,-213.88,1
+2023-04-30,Investment,Interest,8.39,Long Term,10008.39,1
+2023-05-01,Utilities,Phone,-58.04,Cash Hub,"1,994.50",0
+2023-05-01,Debt,Payment,-600.00,Cash Hub,"1,394.50",0
+2023-05-01,Debt,Payment,600.00,Student Loan,"-59,400.00",0
+2023-05-09,Personal,Haircut,-30.00,Cash Hub,"1,364.50",0
+2023-05-12,Income,Salary,817.84,Cash Hub,"2,182.34",0
+2023-05-13,Food & Drinks,Groceries,-85.17,Cash Hub,"2,097.17",1
+2023-05-13,Entertainment,Comedy Show,-174.65,Credit,-388.53,1
+2023-05-15,Lifestyle,Gifts,-25.68,Credit,-414.21,0
+2023-05-20,Food & Drinks,Coffee,-5.74,Cash Hub,"2,091.43",1
+2023-05-21,Entertainment,Subscription,-7.99,Cash Hub,"2,083.44",1
+2023-05-21,Entertainment,Museum,-34.74,Credit,-448.95,1
+2023-05-22,Transportation,Insurance,-123.10,Cash Hub,"1,960.34",0
+2023-05-23,Debt,Payment,-43.89,Cash Hub,"1,916.45",0
+2023-05-23,Debt,Payment,43.89,Credit,-405.06,0
+2023-05-25,Transportation,Gas,-40.00,Cash Hub,"1,876.45",0
+2023-05-26,Income,Salary,"1,201.64",Cash Hub,"3,078.09",0
+2023-05-27,Food & Drinks,Groceries,-60.43,Cash Hub,"3,017.66",1
+2023-05-30,Lifestyle,Gifts,-65.00,Cash Hub,"2,952.66",0
+2023-05-31,Debt,Interest,-3.99,Credit,-409.05,0
+2023-05-31,Investment,Interest,14.46,Long Term,10022.85,0
+2023-06-01,Utilities,Phone,-58.04,Cash Hub,"2,894.62",0
+2023-06-01,Utilities,Internet,-35.00,Cash Hub,"2,859.62",0
+2023-06-01,Debt,Payment,-594.00,Cash Hub,"2,265.62",0
+2023-06-01,Debt,Payment,594.00,Student Loan,"-58,806.00",0
+2023-06-04,Food & Drinks,Restaurant,-54.56,Credit,-463.61,1
+2023-06-08,Personal,Haircut,-37.00,Cash Hub,"2,228.62",0
+2023-06-09,Income,Salary,"1,115.04",Cash Hub,"3,343.66",0
+2023-06-10,Food & Drinks,Groceries,-65.00,Cash Hub,"3,278.66",1
+2023-06-10,Lifestyle,Clothes,-75.99,Credit,-539.60,1
+2023-06-11,Debt,Payment,-300.00,Cash Hub,"2,978.66",1
+2023-06-11,Debt,Payment,300.00,Credit,-239.60,1
+2023-06-20,Transportation,Insurance,-123.10,Cash Hub,"2,855.56",0
+2023-06-21,Entertainment,Subscription,-7.99,Cash Hub,"2,847.57",0
+2023-06-23,Income,Salary,"1,527.98",Cash Hub,"4,375.55",0
+2023-06-24,Food & Drinks,Groceries,-90.00,Cash Hub,"4,285.55",1
+2023-06-29,Lifestyle,Gifts,-25.00,Credit,-264.60,0
+2023-06-29,Food & Drinks,Drinks,-38.99,Credit,-303.59,0
+2023-06-30,Debt,Interest,-3.20,Credit,-306.78,0
+2023-06-30,Investment,Interest,14.01,Long Term,10036.86,0
+2023-07-02,Food & Drinks,Take-out,-45.00,Credit,-351.78,1
+2023-07-03,Housing,Rent,-787.50,Cash Hub,"3,498.05",0
+2023-07-03,Transportation,Subscription,-97.00,Cash Hub,"3,401.05",0
+2023-07-03,Housing,Parking,-175.00,Cash Hub,"3,226.05",0
+2023-07-03,Utilities,Phone,-58.04,Cash Hub,"3,168.01",0
+2023-07-03,Utilities,Internet,-35.00,Cash Hub,"3,133.01",0
+2023-07-03,Utilities,Electricity,-220.39,Cash Hub,"2,912.62",0
+2023-07-03,Debt,Payment,-588.06,Cash Hub,"2,324.56",0
+2023-07-03,Debt,Payment,588.06,Student Loan,"-58,217.94",0
+2023-07-05,Food & Drinks,Restaurant,-34.56,Credit,-386.34,0
+2023-07-07,Income,Salary,"2,769.23",Cash Hub,"5,093.79",0
+2023-07-08,Food & Drinks,Groceries,-100.00,Cash Hub,"4,993.79",1
+2023-07-08,Food & Drinks,Drinks,-45.00,Credit,-431.34,1
+2023-07-10,Food & Drinks,Restaurant,-34.56,Credit,-465.90,0
+2023-07-10,Bank,Deposit,150.00,Emergency,150.00,0
+2023-07-10,Savings,Emergency Fund,-360.00,Cash Hub,"4,633.79",0
+2023-07-10,Savings,Emergency Fund,360.00,Emergency,510.00,0
+2023-07-10,Debt,Payment,-193.85,Cash Hub,"4,439.94",0
+2023-07-10,Debt,Payment,193.85,Credit,-272.05,0
+2023-07-13,Personal,Haircut,-37.00,Cash Hub,"4,402.94",0
+2023-07-19,Food & Drinks,Restaurant,-23.00,Credit,-295.05,0
+2023-07-20,Transportation,Insurance,-123.10,Cash Hub,"4,279.84",0
+2023-07-20,Transportation,Gas,-50.00,Cash Hub,"4,229.84",0
+2023-07-21,Entertainment,Subscription,-7.99,Cash Hub,"4,221.85",0
+2023-07-21,Income,Salary,"2,769.23",Cash Hub,"6,991.08",0
+2023-07-21,Savings,Emergency Fund,-553.85,Cash Hub,"6,437.23",0
+2023-07-21,Savings,Emergency Fund,553.85,Emergency,"1,063.85",0
+2023-07-22,Food & Drinks,Groceries,-72.00,Cash Hub,"6,365.23",1
+2023-07-22,Food & Drinks,Coffee,-5.74,Cash Hub,"6,359.49",1
+2023-07-29,Food & Drinks,Restaurant,-52.00,Credit,-347.05,1
+2023-07-31,Debt,Interest,-3.97,Credit,-351.03,0
+2023-07-31,Investment,Interest,14.50,Long Term,10051.36,0
+2023-08-01,Housing,Rent,-787.50,Cash Hub,"5,571.99",0
+2023-08-01,Transportation,Subscription,-97.00,Cash Hub,"5,474.99",0
+2023-08-01,Housing,Parking,-175.00,Cash Hub,"5,299.99",0
+2023-08-01,Utilities,Phone,-58.04,Cash Hub,"5,241.95",0
+2023-08-01,Utilities,Internet,-35.00,Cash Hub,"5,206.95",0
+2023-08-01,Utilities,Electricity,-320.20,Cash Hub,"4,886.75",0
+2023-08-01,Debt,Payment,-582.18,Cash Hub,"4,304.57",0
+2023-08-01,Debt,Payment,582.18,Student Loan,"-57,635.76",0
+2023-08-04,Income,Salary,"2,769.23",Cash Hub,"7,073.80",0
+2023-08-04,Savings,Emergency Fund,-553.85,Cash Hub,"6,519.95",0
+2023-08-04,Savings,Emergency Fund,553.85,Emergency,"1,617.70",0
+2023-08-05,Food & Drinks,Groceries,-76.90,Cash Hub,"6,443.05",1
+2023-08-05,Food & Drinks,Drinks,-28.00,Credit,-379.03,1
+2023-08-05,Lifestyle,Gifts,-80.49,Credit,-459.52,1
+2023-08-07,Food & Drinks,Restaurant,-34.56,Credit,-494.08,0
+2023-08-10,Personal,Haircut,-37.00,Cash Hub,"6,406.05",0
+2023-08-16,Food & Drinks,Restaurant,-34.56,Credit,-528.64,0
+2023-08-18,Income,Salary,"2,769.23",Cash Hub,"9,175.28",0
+2023-08-18,Savings,Emergency Fund,-300.00,Cash Hub,"8,875.28",0
+2023-08-18,Savings,Emergency Fund,300.00,Emergency,"1,917.70",0
+2023-08-19,Food & Drinks,Groceries,-97.59,Cash Hub,"8,777.69",1
+2023-08-21,Transportation,Insurance,-123.10,Cash Hub,"8,654.59",0
+2023-08-21,Entertainment,Subscription,-7.99,Cash Hub,"8,646.60",0
+2023-08-26,Debt,Payment,-259.04,Cash Hub,"8,387.56",1
+2023-08-26,Debt,Payment,259.04,Credit,-269.60,1
+2023-08-31,Debt,Interest,-3.02,Credit,-272.61,0
+2023-08-31,Investment,Interest,14.52,Long Term,10065.88,0
+2023-09-01,Income,Salary,"2,769.23",Cash Hub,"11,156.79",0
+2023-09-01,Housing,Rent,-787.50,Cash Hub,"10,369.29",0
+2023-09-01,Utilities,Internet,-35.00,Cash Hub,"10,334.29",0
+2023-09-01,Utilities,Electricity,-305.54,Cash Hub,"10,028.75",0
+2023-09-01,Transportation,Subscription,-97.00,Cash Hub,"9,931.75",0
+2023-09-01,Housing,Parking,-175.00,Cash Hub,"9,756.75",0
+2023-09-01,Utilities,Phone,-58.04,Cash Hub,"9,698.71",0
+2023-09-01,Debt,Payment,-576.36,Cash Hub,"9,122.35",0
+2023-09-01,Debt,Payment,576.36,Student Loan,"-57,059.40",0
+2023-09-02,Savings,Emergency Fund,-360.00,Cash Hub,"8,762.35",1
+2023-09-02,Savings,Emergency Fund,360.00,Emergency,"2,277.70",1
+2023-09-02,Food & Drinks,Groceries,-87.21,Cash Hub,"8,675.14",1
+2023-09-03,Entertainment,Games,-149.49,Credit,-422.10,1
+2023-09-03,Debt,Payment,-356.64,Cash Hub,"8,318.50",1
+2023-09-03,Debt,Payment,356.64,Credit,-65.46,1
+2023-09-07,Personal,Haircut,-37.00,Cash Hub,"8,281.50",0
+2023-09-07,Lifestyle,Gifts,-30.45,Credit,-95.91,0
+2023-09-07,Food & Drinks,Restaurant,-23.00,Credit,-118.91,0
+2023-09-15,Income,Salary,"2,769.23",Cash Hub,"11,050.73",0
+2023-09-16,Food & Drinks,Groceries,-105.74,Cash Hub,"10,944.99",1
+2023-09-19,Savings,Emergency Fund,-401.05,Cash Hub,"10,543.94",0
+2023-09-19,Savings,Emergency Fund,401.05,Emergency,"2,678.75",0
+2023-09-20,Transportation,Insurance,-123.10,Cash Hub,"10,420.84",0
+2023-09-21,Entertainment,Subscription,-7.99,Cash Hub,"10,412.85",0
+2023-09-24,Lifestyle,Clothes,-75.99,Credit,-194.90,1
+2023-09-26,Transportation,Gas,-50.00,Cash Hub,"10,362.85",0
+2023-09-29,Income,Salary,"2,769.23",Cash Hub,"13,132.08",0
+2023-09-30,Food & Drinks,Groceries,-86.34,Cash Hub,"13,045.74",1
+2023-09-30,Debt,Interest,-4.58,Credit,-199.49,1
+2023-09-30,Investment,Interest,14.07,Long Term,10079.95,1
+2023-10-01,Savings,Emergency Fund,"-1,000.00",Cash Hub,"12,045.74",1
+2023-10-01,Savings,Emergency Fund,"1,000.00",Emergency,"3,678.75",1
+2023-10-02,Housing,Rent,-787.50,Cash Hub,"11,258.24",0
+2023-10-02,Utilities,Internet,-35.00,Cash Hub,"11,223.24",0
+2023-10-02,Utilities,Electricity,-196.58,Cash Hub,"11,026.66",0
+2023-10-02,Transportation,Subscription,-97.00,Cash Hub,"10,929.66",0
+2023-10-02,Housing,Parking,-175.00,Cash Hub,"10,754.66",0
+2023-10-02,Utilities,Phone,-58.04,Cash Hub,"10,696.62",0
+2023-10-02,Debt,Payment,"-1,570.59",Cash Hub,"9,126.03",0
+2023-10-02,Debt,Payment,"1,570.59",Student Loan,"-55,488.81",0
+2023-10-07,Food & Drinks,Groceries,-20.00,Credit,-219.49,1
+2023-10-10,Personal,Haircut,-37.00,Cash Hub,"9,089.03",0
+2023-10-13,Income,Salary,"2,769.23",Cash Hub,"11,858.26",0
+2023-10-14,Food & Drinks,Groceries,-76.37,Cash Hub,"11,781.89",1
+2023-10-16,Savings,Emergency Fund,-360.00,Cash Hub,"11,421.89",0
+2023-10-16,Savings,Emergency Fund,360.00,Emergency,"4,038.75",0
+2023-10-18,Transportation,Gas,-50.00,Cash Hub,"11,371.89",0
+2023-10-20,Transportation,Insurance,-123.10,Cash Hub,"11,248.79",0
+2023-10-21,Entertainment,Subscription,-7.99,Cash Hub,"11,240.80",1
+2023-10-24,Entertainment,Games,-137.99,Credit,-357.48,0
+2023-10-27,Income,Salary,"2,769.23",Cash Hub,"14,010.03",0
+2023-10-27,Savings,Emergency Fund,-276.00,Cash Hub,"13,734.03",0
+2023-10-27,Savings,Emergency Fund,276.00,Emergency,"4,314.75",0
+2023-10-27,Bank,Transfer,-840.77,Cash Hub,"12,893.26",0
+2023-10-27,Bank,Transfer,840.77,Spending,840.77,0
+2023-10-27,Debt,Payment,-287.00,Spending,553.77,0
+2023-10-27,Debt,Payment,287.00,Credit,-70.48,0
+2023-10-28,Food & Drinks,Groceries,-82.46,Spending,471.31,1
+2023-10-28,Lifestyle,Clothes,-257.48,Credit,-327.96,1
+2023-10-31,Debt,Interest,-7.05,Credit,-335.01,0
+2023-10-31,Investment,Interest,14.56,Long Term,10094.51,0
+2023-11-01,Housing,Rent,-787.50,Cash Hub,"12,105.76",0
+2023-11-01,Utilities,Internet,-35.00,Cash Hub,"12,070.76",0
+2023-11-01,Utilities,Electricity,-114.49,Cash Hub,"11,956.27",0
+2023-11-01,Transportation,Subscription,-97.00,Cash Hub,"11,859.27",0
+2023-11-01,Housing,Parking,-175.00,Cash Hub,"11,684.27",0
+2023-11-01,Utilities,Phone,-58.04,Cash Hub,"11,626.23",0
+2023-11-01,Debt,Payment,-555.88,Cash Hub,"11,070.35",0
+2023-11-01,Debt,Payment,555.88,Student Loan,"-54,932.93",0
+2023-11-04,Savings,Long Term,"-1,000.00",Cash Hub,"10,070.35",1
+2023-11-04,Savings,Long Term,"1,000.00",Long Term,11094.51,1
+2023-11-06,Transportation,Gas,-42.00,Spending,429.31,0
+2023-11-10,Income,Salary,"2,769.23",Cash Hub,"12,839.58",0
+2023-11-10,Bank,Transfer,-840.77,Cash Hub,"11,998.81",0
+2023-11-10,Bank,Transfer,840.77,Spending,"1,270.08",0
+2023-11-12,Food & Drinks,Groceries,-81.64,Spending,"1,188.44",1
+2023-11-14,Personal,Haircut,-37.00,Spending,"1,151.44",0
+2023-11-20,Transportation,Insurance,-123.10,Cash Hub,"11,875.71",0
+2023-11-21,Entertainment,Subscription,-7.99,Spending,"1,143.45",0
+2023-11-24,Income,Salary,"2,769.23",Cash Hub,"14,644.94",0
+2023-11-24,Bank,Transfer,-840.77,Cash Hub,"13,804.17",0
+2023-11-24,Bank,Transfer,840.77,Spending,"1,984.22",0
+2023-11-25,Food & Drinks,Groceries,-97.59,Spending,"1,886.63",1
+2023-11-26,Transportation,Gas,-37.00,Spending,"1,849.63",1
+2023-11-26,Debt,Payment,-287.00,Spending,"1,562.63",1
+2023-11-26,Debt,Payment,287.00,Credit,-48.01,1
+2023-11-30,Debt,Interest,0.00,Credit,-48.01,0
+2023-11-30,Investment,Interest,15.28,Long Term,11109.79,0
+2023-12-01,Housing,Rent,-787.50,Cash Hub,"13,016.67",0
+2023-12-01,Utilities,Internet,-35.00,Cash Hub,"12,981.67",0
+2023-12-01,Utilities,Electricity,-110.51,Cash Hub,"12,871.16",0
+2023-12-01,Transportation,Subscription,-97.00,Cash Hub,"12,774.16",0
+2023-12-01,Housing,Parking,-175.00,Cash Hub,"12,599.16",0
+2023-12-01,Utilities,Phone,-58.04,Cash Hub,"12,541.12",0
+2023-12-01,Debt,Payment,-549.32,Cash Hub,"11,991.80",0
+2023-12-01,Debt,Payment,549.32,Student Loan,"-54,383.61",0
+2023-12-04,Food & Drinks,Restaurant,-45.67,Spending,"1,516.96",0
+2023-12-07,Savings,Emergency Fund,-360.00,Cash Hub,"11,631.80",0
+2023-12-07,Savings,Emergency Fund,360.00,Emergency,"4,674.75",0
+2023-12-07,Savings,Long Term,-150.00,Cash Hub,"11,481.80",0
+2023-12-07,Savings,Long Term,150.00,Long Term,11259.79,0
+2023-12-08,Income,Salary,"2,769.23",Cash Hub,"14,251.03",0
+2023-12-08,Bank,Transfer,-840.77,Cash Hub,"13,410.26",0
+2023-12-08,Bank,Transfer,840.77,Spending,"2,357.73",0
+2023-12-09,Food & Drinks,Groceries,-82.49,Spending,"2,275.24",1
+2023-12-12,Personal,Haircut,-37.00,Spending,"2,238.24",0
+2023-12-13,Transportation,Gas,-50.00,Spending,"2,188.24",0
+2023-12-20,Transportation,Insurance,-123.10,Cash Hub,"13,287.16",0
+2023-12-21,Entertainment,Subscription,-7.99,Spending,"2,180.25",0
+2023-12-22,Income,Salary,"3,769.23",Cash Hub,"17,056.39",0
+2023-12-22,Bank,Transfer,-840.77,Cash Hub,"16,215.62",0
+2023-12-22,Bank,Transfer,840.77,Spending,"17,056.39",0
+2023-12-23,Food & Drinks,Groceries,-111.63,Spending,"16,944.76",1
+2023-12-28,Entertainment,Games,-72.63,Credit,-120.64,0
+2023-12-29,Transportation,Gas,-50.00,Spending,"16,894.76",0
+2023-12-29,Debt,Payment,-100.00,Spending,"16,794.76",0
+2023-12-29,Debt,Payment,100.00,Credit,-20.64,0
+2023-12-31,Debt,Interest,-1.23,Credit,-21.87,1
+2023-12-31,Investment,Interest,16.22,Long Term,11276.01,1
