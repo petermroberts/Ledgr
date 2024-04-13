@@ -31,6 +31,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Data\Budget.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Data\Dec 2018.csv">
           <value>
             <Attribute>
@@ -46,6 +53,13 @@
           </value>
         </entry>
         <entry key="\Data\Feb 2019.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\Data\Initial Training - Full Year.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -213,63 +227,105 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\Preparation\Data\InitTraining.csv">
+        <entry key="\PostPresentation\Data\InitTraining.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\Preparation\Data\January - Sheet1.csv">
+        <entry key="\PostPresentation\Data\food_update.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\Preparation\Data\credit.csv">
+        <entry key="\PrePresentation\Preparation\Data\2023 Transactions - Q1-net.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\Preparation\Data\debit.csv">
+        <entry key="\PrePresentation\Preparation\Data\2023 Transactions - Q1.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\Preparation\Data\feb_transactions.csv">
+        <entry key="\PrePresentation\Preparation\Data\InitTraining.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\Preparation\Data\february_credit.csv">
+        <entry key="\PrePresentation\Preparation\Data\January - Sheet1.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\Preparation\Data\february_debit.csv">
+        <entry key="\PrePresentation\Preparation\Data\credit.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\Preparation\Data\february_savings.csv">
+        <entry key="\PrePresentation\Preparation\Data\feb_transactions.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\Preparation\Data\transactions.csv">
+        <entry key="\PrePresentation\Preparation\Data\february_credit.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\PrePresentation\Preparation\Data\food.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\PrePresentation\Preparation\Data\jan_feb_allaccounts.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\PrePresentation\Preparation\Data\testing.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\PrePresentation\Preparation\Data\training_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\PrePresentation\Preparation\Data\transactions.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\PrePresentation\Preparation\basic_food.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
@@ -291,34 +347,6 @@
           </value>
         </entry>
         <entry key="\Presentation\Data\food_update.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Tutorials\Data\AirPassengers.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Tutorials\Data\InitTraining.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Tutorials\Data\testing.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Tutorials\Data\training_dataset.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
